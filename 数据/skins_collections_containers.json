@@ -26,7 +26,7 @@
   "set_anubis": {
    "id": "set_anubis",
    "name_en": "The Anubis Collection",
-   "name_zh": null,
+   "name_zh": "阿努比斯收藏品",
    "skins": [
     {
      "collection_id": "set_anubis",
@@ -810,7 +810,7 @@
   "set_assault": {
    "id": "set_assault",
    "name_en": "The Assault Collection",
-   "name_zh": null,
+   "name_zh": "突击收藏品",
    "skins": [
     {
      "collection_id": "set_assault",
@@ -944,7 +944,7 @@
   "set_aztec": {
    "id": "set_aztec",
    "name_en": "The Aztec Collection",
-   "name_zh": null,
+   "name_zh": "阿兹特克收藏品",
    "skins": [
     {
      "collection_id": "set_aztec",
@@ -1060,7 +1060,7 @@
   "set_baggage": {
    "id": "set_baggage",
    "name_en": "The Baggage Collection",
-   "name_zh": null,
+   "name_zh": "行李收藏品",
    "skins": [
     {
      "collection_id": "set_baggage",
@@ -1338,7 +1338,7 @@
   "set_bank": {
    "id": "set_bank",
    "name_en": "The Bank Collection",
-   "name_zh": null,
+   "name_zh": "银行收藏品",
    "skins": [
     {
      "collection_id": "set_bank",
@@ -1634,7 +1634,7 @@
   "set_blacksite": {
    "id": "set_blacksite",
    "name_en": "The Blacksite Collection",
-   "name_zh": null,
+   "name_zh": "黑站点收藏品",
    "skins": [
     {
      "collection_id": "set_blacksite",
@@ -1660,7 +1660,7 @@
   "set_bravo_i": {
    "id": "set_bravo_i",
    "name_en": "The Bravo Collection",
-   "name_zh": null,
+   "name_zh": "英勇收藏品",
    "skins": [
     {
      "collection_id": "set_bravo_i",
@@ -1970,7 +1970,7 @@
   "set_bravo_ii": {
    "id": "set_bravo_ii",
    "name_en": "The Alpha Collection",
-   "name_zh": null,
+   "name_zh": "阿尔法收藏品",
    "skins": [
     {
      "collection_id": "set_bravo_ii",
@@ -2266,7 +2266,7 @@
   "set_cache": {
    "id": "set_cache",
    "name_en": "The Cache Collection",
-   "name_zh": null,
+   "name_zh": "缓存收藏品",
    "skins": [
     {
      "collection_id": "set_cache",
@@ -2704,7 +2704,7 @@
   "set_canals": {
    "id": "set_canals",
    "name_en": "The Canals Collection",
-   "name_zh": null,
+   "name_zh": "运河收藏品",
    "skins": [
     {
      "collection_id": "set_canals",
@@ -3074,7 +3074,7 @@
   "set_chopshop": {
    "id": "set_chopshop",
    "name_en": "The Chop Shop Collection",
-   "name_zh": null,
+   "name_zh": "修车厂收藏品",
    "skins": [
     {
      "collection_id": "set_chopshop",
@@ -3404,7 +3404,7 @@
   "set_cobblestone": {
    "id": "set_cobblestone",
    "name_en": "The Cobblestone Collection",
-   "name_zh": null,
+   "name_zh": "古堡收藏品",
    "skins": [
     {
      "collection_id": "set_cobblestone",
@@ -3874,7 +3874,7 @@
   "set_community_1": {
    "id": "set_community_1",
    "name_en": "The Winter Offensive Collection",
-   "name_zh": null,
+   "name_zh": "冬季攻势收藏品",
    "skins": [
     {
      "collection_id": "set_community_1",
@@ -4144,7 +4144,7 @@
   "set_community_10": {
    "id": "set_community_10",
    "name_en": "The Revolver Case Collection",
-   "name_zh": null,
+   "name_zh": "左轮手枪武器箱收藏品",
    "skins": [
     {
      "collection_id": "set_community_10",
@@ -4494,7 +4494,7 @@
   "set_community_11": {
    "id": "set_community_11",
    "name_en": "The Wildfire Collection",
-   "name_zh": null,
+   "name_zh": "野火收藏品",
    "skins": [
     {
      "collection_id": "set_community_11",
@@ -4824,7 +4824,7 @@
   "set_community_12": {
    "id": "set_community_12",
    "name_en": "The Chroma 3 Collection",
-   "name_zh": null,
+   "name_zh": "渐变之色3收藏品",
    "skins": [
     {
      "collection_id": "set_community_12",
@@ -5174,7 +5174,7 @@
   "set_community_13": {
    "id": "set_community_13",
    "name_en": "The Gamma Collection",
-   "name_zh": null,
+   "name_zh": "伽马收藏品",
    "skins": [
     {
      "collection_id": "set_community_13",
@@ -5524,7 +5524,7 @@
   "set_community_15": {
    "id": "set_community_15",
    "name_en": "The Glove Collection",
-   "name_zh": null,
+   "name_zh": "手套收藏品",
    "skins": [
     {
      "collection_id": "set_community_15",
@@ -5874,7 +5874,7 @@
   "set_community_16": {
    "id": "set_community_16",
    "name_en": "The Spectrum Collection",
-   "name_zh": null,
+   "name_zh": "光谱收藏品",
    "skins": [
     {
      "collection_id": "set_community_16",
@@ -6224,7 +6224,7 @@
   "set_community_17": {
    "id": "set_community_17",
    "name_en": "The Operation Hydra Collection",
-   "name_zh": null,
+   "name_zh": "九头蛇行动收藏品",
    "skins": [
     {
      "collection_id": "set_community_17",
@@ -6574,7 +6574,7 @@
   "set_community_18": {
    "id": "set_community_18",
    "name_en": "The Spectrum 2 Collection",
-   "name_zh": null,
+   "name_zh": "光谱2收藏品",
    "skins": [
     {
      "collection_id": "set_community_18",
@@ -7274,7 +7274,7 @@
   "set_community_2": {
    "id": "set_community_2",
    "name_en": "The Phoenix Collection",
-   "name_zh": null,
+   "name_zh": "凤凰收藏品",
    "skins": [
     {
      "collection_id": "set_community_2",
@@ -7544,7 +7544,7 @@
   "set_community_20": {
    "id": "set_community_20",
    "name_en": "The Horizon Collection",
-   "name_zh": null,
+   "name_zh": "地平线收藏品",
    "skins": [
     {
      "collection_id": "set_community_20",
@@ -7894,7 +7894,7 @@
   "set_community_21": {
    "id": "set_community_21",
    "name_en": "The Danger Zone Collection",
-   "name_zh": null,
+   "name_zh": "头号特训收藏品",
    "skins": [
     {
      "collection_id": "set_community_21",
@@ -8244,7 +8244,7 @@
   "set_community_22": {
    "id": "set_community_22",
    "name_en": "The Prisma Collection",
-   "name_zh": null,
+   "name_zh": "棱彩收藏品",
    "skins": [
     {
      "collection_id": "set_community_22",
@@ -8594,7 +8594,7 @@
   "set_community_23": {
    "id": "set_community_23",
    "name_en": "The Shattered Web Collection",
-   "name_zh": null,
+   "name_zh": "裂网大行动收藏品",
    "skins": [
     {
      "collection_id": "set_community_23",
@@ -8944,7 +8944,7 @@
   "set_community_24": {
    "id": "set_community_24",
    "name_en": "The CS20 Collection",
-   "name_zh": null,
+   "name_zh": "CS20周年收藏品",
    "skins": [
     {
      "collection_id": "set_community_24",
@@ -9294,7 +9294,7 @@
   "set_community_25": {
    "id": "set_community_25",
    "name_en": "The Prisma 2 Collection",
-   "name_zh": null,
+   "name_zh": "棱彩2收藏品",
    "skins": [
     {
      "collection_id": "set_community_25",
@@ -9644,7 +9644,7 @@
   "set_community_26": {
    "id": "set_community_26",
    "name_en": "The Fracture Collection",
-   "name_zh": null,
+   "name_zh": "裂空收藏品",
    "skins": [
     {
      "collection_id": "set_community_26",
@@ -9994,7 +9994,7 @@
   "set_community_27": {
    "id": "set_community_27",
    "name_en": "The Operation Broken Fang Collection",
-   "name_zh": null,
+   "name_zh": "破伤之牙行动收藏品",
    "skins": [
     {
      "collection_id": "set_community_27",
@@ -10694,7 +10694,7 @@
   "set_community_29": {
    "id": "set_community_29",
    "name_en": "The Operation Riptide Collection",
-   "name_zh": null,
+   "name_zh": "激流大行动收藏品",
    "skins": [
     {
      "collection_id": "set_community_29",
@@ -11044,7 +11044,7 @@
   "set_community_3": {
    "id": "set_community_3",
    "name_en": "The Huntsman Collection",
-   "name_zh": null,
+   "name_zh": "狩猎收藏品",
    "skins": [
     {
      "collection_id": "set_community_3",
@@ -11454,7 +11454,7 @@
   "set_community_30": {
    "id": "set_community_30",
    "name_en": "The Dreams & Nightmares Collection",
-   "name_zh": null,
+   "name_zh": "梦魇收藏品",
    "skins": [
     {
      "collection_id": "set_community_30",
@@ -11804,7 +11804,7 @@
   "set_community_31": {
    "id": "set_community_31",
    "name_en": "The Recoil Collection",
-   "name_zh": null,
+   "name_zh": "后座力收藏品",
    "skins": [
     {
      "collection_id": "set_community_31",
@@ -12154,7 +12154,7 @@
   "set_community_32": {
    "id": "set_community_32",
    "name_en": "The Revolution Collection",
-   "name_zh": null,
+   "name_zh": "革命收藏品",
    "skins": [
     {
      "collection_id": "set_community_32",
@@ -12504,7 +12504,7 @@
   "set_community_33": {
    "id": "set_community_33",
    "name_en": "The Kilowatt Collection",
-   "name_zh": null,
+   "name_zh": "千瓦收藏品",
    "skins": [
     {
      "collection_id": "set_community_33",
@@ -13204,7 +13204,7 @@
   "set_community_35": {
    "id": "set_community_35",
    "name_en": "The Fever Collection",
-   "name_zh": null,
+   "name_zh": "狂热收藏品",
    "skins": [
     {
      "collection_id": "set_community_35",
@@ -13554,7 +13554,7 @@
   "set_community_36": {
    "id": "set_community_36",
    "name_en": "The Genesis Collection",
-   "name_zh": null,
+   "name_zh": "起源收藏品",
    "skins": [
     {
      "collection_id": "set_community_36",
@@ -13904,7 +13904,7 @@
   "set_community_37": {
    "id": "set_community_37",
    "name_en": "The Dead Hand Collection",
-   "name_zh": null,
+   "name_zh": "死手收藏品",
    "skins": [
     {
      "collection_id": "set_community_37",
@@ -14254,7 +14254,7 @@
   "set_community_4": {
    "id": "set_community_4",
    "name_en": "The Breakout Collection",
-   "name_zh": null,
+   "name_zh": "突围收藏品",
    "skins": [
     {
      "collection_id": "set_community_4",
@@ -14544,7 +14544,7 @@
   "set_community_5": {
    "id": "set_community_5",
    "name_en": "The Vanguard Collection",
-   "name_zh": null,
+   "name_zh": "先锋收藏品",
    "skins": [
     {
      "collection_id": "set_community_5",
@@ -15124,7 +15124,7 @@
   "set_community_7": {
    "id": "set_community_7",
    "name_en": "The Chroma 2 Collection",
-   "name_zh": null,
+   "name_zh": "渐变之色2收藏品",
    "skins": [
     {
      "collection_id": "set_community_7",
@@ -15434,7 +15434,7 @@
   "set_community_8": {
    "id": "set_community_8",
    "name_en": "The Falchion Collection",
-   "name_zh": null,
+   "name_zh": "弯刀收藏品",
    "skins": [
     {
      "collection_id": "set_community_8",
@@ -15764,7 +15764,7 @@
   "set_community_9": {
    "id": "set_community_9",
    "name_en": "The Shadow Collection",
-   "name_zh": null,
+   "name_zh": "暗影收藏品",
    "skins": [
     {
      "collection_id": "set_community_9",
@@ -16094,7 +16094,7 @@
   "set_dust": {
    "id": "set_dust",
    "name_en": "The Dust Collection",
-   "name_zh": null,
+   "name_zh": "炙热沙城收藏品",
    "skins": [
     {
      "collection_id": "set_dust",
@@ -16264,7 +16264,7 @@
   "set_dust_2": {
    "id": "set_dust_2",
    "name_en": "The Dust 2 Collection",
-   "name_zh": null,
+   "name_zh": "炙热沙城2收藏品",
    "skins": [
     {
      "collection_id": "set_dust_2",
@@ -17274,7 +17274,7 @@
   "set_esports": {
    "id": "set_esports",
    "name_en": "The eSports 2013 Collection",
-   "name_zh": null,
+   "name_zh": "电竞2013收藏品",
    "skins": [
     {
      "collection_id": "set_esports",
@@ -17464,7 +17464,7 @@
   "set_esports_ii": {
    "id": "set_esports_ii",
    "name_en": "The eSports 2013 Winter Collection",
-   "name_zh": null,
+   "name_zh": "电竞2013冬季收藏品",
    "skins": [
     {
      "collection_id": "set_esports_ii",
@@ -17714,7 +17714,7 @@
   "set_esports_iii": {
    "id": "set_esports_iii",
    "name_en": "The eSports 2014 Summer Collection",
-   "name_zh": null,
+   "name_zh": "电竞2014夏季收藏品",
    "skins": [
     {
      "collection_id": "set_esports_iii",
@@ -18064,7 +18064,7 @@
   "set_gamma_2": {
    "id": "set_gamma_2",
    "name_en": "The Gamma 2 Collection",
-   "name_zh": null,
+   "name_zh": "伽马2收藏品",
    "skins": [
     {
      "collection_id": "set_gamma_2",
@@ -18414,7 +18414,7 @@
   "set_gods_and_monsters": {
    "id": "set_gods_and_monsters",
    "name_en": "The Gods and Monsters Collection",
-   "name_zh": null,
+   "name_zh": "诸神与怪兽收藏品",
    "skins": [
     {
      "collection_id": "set_gods_and_monsters",
@@ -19000,7 +19000,7 @@
   "set_inferno": {
    "id": "set_inferno",
    "name_en": "The Inferno Collection",
-   "name_zh": null,
+   "name_zh": "炼狱小镇收藏品",
    "skins": [
     {
      "collection_id": "set_inferno",
@@ -19179,7 +19179,7 @@
   "set_inferno_2": {
    "id": "set_inferno_2",
    "name_en": "The 2018 Inferno Collection",
-   "name_zh": null,
+   "name_zh": "2018炼狱小镇收藏品",
    "skins": [
     {
      "collection_id": "set_inferno_2",
@@ -19739,7 +19739,7 @@
   "set_italy": {
    "id": "set_italy",
    "name_en": "The Italy Collection",
-   "name_zh": null,
+   "name_zh": "意大利小镇收藏品",
    "skins": [
     {
      "collection_id": "set_italy",
@@ -20347,7 +20347,7 @@
   "set_lake": {
    "id": "set_lake",
    "name_en": "The Lake Collection",
-   "name_zh": null,
+   "name_zh": "湖泊收藏品",
    "skins": [
     {
      "collection_id": "set_lake",
@@ -20625,7 +20625,7 @@
   "set_militia": {
    "id": "set_militia",
    "name_en": "The Militia Collection",
-   "name_zh": null,
+   "name_zh": "民兵收藏品",
    "skins": [
     {
      "collection_id": "set_militia",
@@ -20831,7 +20831,7 @@
   "set_mirage": {
    "id": "set_mirage",
    "name_en": "The Mirage Collection",
-   "name_zh": null,
+   "name_zh": "荒漠迷城收藏品",
    "skins": [
     {
      "collection_id": "set_mirage",
@@ -21333,7 +21333,7 @@
   "set_mirage_2021": {
    "id": "set_mirage_2021",
    "name_en": "The 2021 Mirage Collection",
-   "name_zh": null,
+   "name_zh": "2021荒漠迷城收藏品",
    "skins": [
     {
      "collection_id": "set_mirage_2021",
@@ -21883,7 +21883,7 @@
   "set_norse": {
    "id": "set_norse",
    "name_en": "The Norse Collection",
-   "name_zh": null,
+   "name_zh": "北欧收藏品",
    "skins": [
     {
      "collection_id": "set_norse",
@@ -22253,7 +22253,7 @@
   "set_nuke": {
    "id": "set_nuke",
    "name_en": "The Nuke Collection",
-   "name_zh": null,
+   "name_zh": "核子危机收藏品",
    "skins": [
     {
      "collection_id": "set_nuke",
@@ -22513,7 +22513,7 @@
   "set_nuke_2": {
    "id": "set_nuke_2",
    "name_en": "The 2018 Nuke Collection",
-   "name_zh": null,
+   "name_zh": "2018核子危机收藏品",
    "skins": [
     {
      "collection_id": "set_nuke_2",
@@ -23073,7 +23073,7 @@
   "set_office": {
    "id": "set_office",
    "name_en": "The Office Collection",
-   "name_zh": null,
+   "name_zh": "办公室收藏品",
    "skins": [
     {
      "collection_id": "set_office",
@@ -23189,7 +23189,7 @@
   "set_op10_ancient": {
    "id": "set_op10_ancient",
    "name_en": "The Ancient Collection",
-   "name_zh": null,
+   "name_zh": "远古收藏品",
    "skins": [
     {
      "collection_id": "set_op10_ancient",
@@ -23739,7 +23739,7 @@
   "set_op10_ct": {
    "id": "set_op10_ct",
    "name_en": "The Control Collection",
-   "name_zh": null,
+   "name_zh": "掌控收藏品",
    "skins": [
     {
      "collection_id": "set_op10_ct",
@@ -24129,7 +24129,7 @@
   "set_op10_t": {
    "id": "set_op10_t",
    "name_en": "The Havoc Collection",
-   "name_zh": null,
+   "name_zh": "浩劫收藏品",
    "skins": [
     {
      "collection_id": "set_op10_t",
@@ -24519,7 +24519,7 @@
   "set_overpass": {
    "id": "set_overpass",
    "name_en": "The Overpass Collection",
-   "name_zh": null,
+   "name_zh": "死亡游乐园收藏品",
    "skins": [
     {
      "collection_id": "set_overpass",
@@ -25743,7 +25743,7 @@
   "set_safehouse": {
    "id": "set_safehouse",
    "name_en": "The Safehouse Collection",
-   "name_zh": null,
+   "name_zh": "安全屋收藏品",
    "skins": [
     {
      "collection_id": "set_safehouse",
@@ -26335,7 +26335,7 @@
   "set_stmarc": {
    "id": "set_stmarc",
    "name_en": "The St. Marc Collection",
-   "name_zh": null,
+   "name_zh": "圣马克镇收藏品",
    "skins": [
     {
      "collection_id": "set_stmarc",
@@ -26705,7 +26705,7 @@
   "set_timed_drops_achroma": {
    "id": "set_timed_drops_achroma",
    "name_en": "The Achroma Collection",
-   "name_zh": null,
+   "name_zh": "无彩收藏品",
    "skins": [
     {
      "collection_id": "set_timed_drops_achroma",
@@ -27073,7 +27073,7 @@
   "set_timed_drops_cool": {
    "id": "set_timed_drops_cool",
    "name_en": "The Ascent Collection",
-   "name_zh": null,
+   "name_zh": "上青收藏品",
    "skins": [
     {
      "collection_id": "set_timed_drops_cool",
@@ -27585,7 +27585,7 @@
   "set_timed_drops_exuberant": {
    "id": "set_timed_drops_exuberant",
    "name_en": "The Harlequin Collection",
-   "name_zh": null,
+   "name_zh": "彩绘收藏品",
    "skins": [
     {
      "collection_id": "set_timed_drops_exuberant",
@@ -27935,7 +27935,7 @@
   "set_timed_drops_neutral": {
    "id": "set_timed_drops_neutral",
    "name_en": "The Boreal Collection",
-   "name_zh": null,
+   "name_zh": "苍翠收藏品",
    "skins": [
     {
      "collection_id": "set_timed_drops_neutral",
@@ -28465,7 +28465,7 @@
   "set_timed_drops_warm": {
    "id": "set_timed_drops_warm",
    "name_en": "The Radiant Collection",
-   "name_zh": null,
+   "name_zh": "暖光收藏品",
    "skins": [
     {
      "collection_id": "set_timed_drops_warm",
@@ -28977,7 +28977,7 @@
   "set_train": {
    "id": "set_train",
    "name_en": "The Train Collection",
-   "name_zh": null,
+   "name_zh": "列车站收藏品",
    "skins": [
     {
      "collection_id": "set_train",
@@ -29431,7 +29431,7 @@
   "set_train_2021": {
    "id": "set_train_2021",
    "name_en": "The 2021 Train Collection",
-   "name_zh": null,
+   "name_zh": "2021列车站收藏品",
    "skins": [
     {
      "collection_id": "set_train_2021",
@@ -29927,7 +29927,7 @@
   "set_train_2025": {
    "id": "set_train_2025",
    "name_en": "The Train 2025 Collection",
-   "name_zh": null,
+   "name_zh": "2025列车站收藏品",
    "skins": [
     {
      "collection_id": "set_train_2025",
@@ -30274,7 +30274,7 @@
   "set_vertigo": {
    "id": "set_vertigo",
    "name_en": "The Vertigo Collection",
-   "name_zh": null,
+   "name_zh": "眩晕大厦收藏品",
    "skins": [
     {
      "collection_id": "set_vertigo",
@@ -30404,7 +30404,7 @@
   "set_vertigo_2021": {
    "id": "set_vertigo_2021",
    "name_en": "The 2021 Vertigo Collection",
-   "name_zh": null,
+   "name_zh": "2021眩晕大厦收藏品",
    "skins": [
     {
      "collection_id": "set_vertigo_2021",
@@ -30914,7 +30914,7 @@
   "set_weapons_i": {
    "id": "set_weapons_i",
    "name_en": "The Arms Deal Collection",
-   "name_zh": null,
+   "name_zh": "军火交易收藏品",
    "skins": [
     {
      "collection_id": "set_weapons_i",
@@ -31104,7 +31104,7 @@
   "set_weapons_ii": {
    "id": "set_weapons_ii",
    "name_en": "The Arms Deal 2 Collection",
-   "name_zh": null,
+   "name_zh": "军火交易2收藏品",
    "skins": [
     {
      "collection_id": "set_weapons_ii",
@@ -31354,7 +31354,7 @@
   "set_weapons_iii": {
    "id": "set_weapons_iii",
    "name_en": "The Arms Deal 3 Collection",
-   "name_zh": null,
+   "name_zh": "军火交易3收藏品",
    "skins": [
     {
      "collection_id": "set_weapons_iii",
@@ -31604,7 +31604,7 @@
   "set_xpshop_wpn_01": {
    "id": "set_xpshop_wpn_01",
    "name_en": "Limited Edition Item",
-   "name_zh": null,
+   "name_zh": "限量版收藏品",
    "skins": [
     {
      "collection_id": "set_xpshop_wpn_01",
@@ -31684,7 +31684,7 @@
   "set_xraymachine": {
    "id": "set_xraymachine",
    "name_en": "The X-Ray Collection",
-   "name_zh": null,
+   "name_zh": "X光收藏品",
    "skins": [
     {
      "collection_id": "set_xraymachine",
