@@ -81,9 +81,9 @@ def build_need():
                     mh = mh_of(s["item_id"], wm)
                     if mh:
                         need[mh] = True
-            # 本链产物档：FN/MW/FT
+            # 本链产物档：FN/MW/FT/WW（WW 供 S破损 的同磨损初筛）
             for p in pool:
-                for wt in ("Factory New", "Minimal Wear", "Field-Tested"):
+                for wt in ("Factory New", "Minimal Wear", "Field-Tested", "Well-Worn"):
                     mh = mh_of(p["id"], wt)
                     if mh:
                         need[mh] = True
@@ -230,6 +230,55 @@ def compute_board():
         results[m].sort(key=lambda x: -x["ev"])
     return {"date": time.strftime("%Y-%m-%d %H:%M"), "modes": results}
 
+# ---------- 主料 S 榜：初筛(同磨损≥0.8)后按 S 排序 ----------
+S_LABELS = [("S破损", "Well-Worn"), ("S酒精", "Field-Tested"), ("S略磨", "Minimal Wear")]
+WEAR_LOW  = {"Well-Worn": "Field-Tested", "Field-Tested": "Minimal Wear", "Minimal Wear": "Factory New"}
+
+def pool_mean(iid, wear_en):
+    """主料 iid 的上级产物池在 wear_en 档的均价（无价返回 None）"""
+    ch = chain_of(iid)
+    if not ch:
+        return None
+    vals = []
+    for p in ch[2]:
+        c = price_of(mh_of(p["id"], wear_en))
+        if c:
+            vals.append(c)
+    if not vals:
+        return None
+    return sum(vals) / len(vals)
+
+def compute_mains():
+    modes = {lb: [] for lb, _ in S_LABELS}
+    for cid, cv in SCC["collections"].items():
+        tiers = POOLS.get(cid, {}).get("tiers", {})
+        nm = cv.get("name_zh") or cv.get("name_en") or cid
+        for r, tt in tiers.items():
+            if not tt.get("pool"):
+                continue
+            for s in [x for x in cv["skins"] if x.get("rarity") == r]:
+                iid = s["item_id"]
+                for lb, buy in S_LABELS:
+                    p = price_of(mh_of(iid, buy))
+                    if not p:
+                        continue
+                    same = pool_mean(iid, buy)      # 同磨损（初筛）
+                    low  = pool_mean(iid, WEAR_LOW[buy])   # 低磨损产物（S 分子）
+                    if not same or not low:
+                        continue
+                    fv = same / 10.0 / p            # 初筛值
+                    sv = low / 10.0 / p              # S
+                    if fv >= 0.8:                    # 初筛门槛
+                        modes[lb].append({
+                            "iid": iid,
+                            "name": ITEM.get(iid, {}).get("zh") or ITEM.get(iid, {}).get("en") or "",
+                            "col": nm, "rarity": r,
+                            "main_price": round(p, 2),
+                            "filter_v": round(fv, 4), "S": round(sv, 4)})
+    for lb in modes:
+        modes[lb].sort(key=lambda x: -x["S"])
+    return {"date": time.strftime("%Y-%m-%d %H:%M"), "modes": modes}
+
 # ---------- 主流程 ----------
 def main():
     t0 = time.time()
@@ -244,7 +293,13 @@ def main():
     for m in board["modes"]:
         top = board["modes"][m][0]
         print(f"[{m}] 榜首 {top['main']} 净EV {top['ev']} 收益 {top['roi']}%", flush=True)
-    print(f"saved {dest} · elapsed {int(time.time() - t0)}s", flush=True)
+    mains = compute_mains()
+    mdest = os.path.join(BASE, "主料榜.json")
+    json.dump(mains, open(mdest, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    for lb in mains["modes"]:
+        rows = mains["modes"][lb]
+        print(f"[{lb}] 通过初筛 {len(rows)}，榜首 S={rows[0]['S'] if rows else '-'} {rows[0]['name'] if rows else ''}", flush=True)
+    print(f"saved {dest} + {mdest} · elapsed {int(time.time() - t0)}s", flush=True)
 
 if __name__ == "__main__":
     main()
