@@ -1,0 +1,7372 @@
+{
+ "meta": {
+  "note": "同收藏品内高一档稀有度皮肤=该档材料打汰换时的上级产物池（按修正后稀有度）"
+ },
+ "collections": {
+  "set_anubis": {
+   "name_en": "The Anubis Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[1243]60",
+       "name": "M4A1 消音型 | 泥斑迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1244]17",
+       "name": "MAC-10 | 鸣沙",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1251]40",
+       "name": "SSG 08 | 碧蓝雕文",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1253]61",
+       "name": "USP 消音版 | 沙漠战术",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1238]7",
+       "name": "AK-47 | 钢铁三角洲",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1239]9",
+       "name": "AWP | 尼罗河沃土",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1245]27",
+       "name": "MAG-7 | 鎏铜",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1252]30",
+       "name": "Tec-9 | 腐朽木乃伊",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1240]4",
+       "name": "格洛克 18 型 | 拉美西斯之触",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1247]35",
+       "name": "新星 | 索贝克之噬",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1250]19",
+       "name": "P90 | 疾袭圣甲虫",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1241]10",
+       "name": "法玛斯 | 奈芙蒂斯之河",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1248]36",
+       "name": "P250 | 阿佩普之咒",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1255]16",
+       "name": "M4A4 | 荷鲁斯之眼",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A4 | Eye of Horus"
+     ]
+    }
+   }
+  },
+  "set_arabesque": {
+   "name_en": "The Arabesque Collection",
+   "name_zh": "蔓藤纹收藏品",
+   "tiers": {
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1461]10",
+       "name": "FAMAS | Snake Song",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1454]17",
+       "name": "MAC-10 | Arabesque Mosaic",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1475]29",
+       "name": "Sawed-Off | Lunar Wyrm",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1462]30",
+       "name": "Tec-9 | Sultan",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1464]8",
+       "name": "AUG | Lapis Lazuli",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1460]4",
+       "name": "Glock-18 | Ifrit Lattice",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1455]36",
+       "name": "P250 | Lotus Imprint",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1458]1",
+       "name": "Desert Eagle | Eastern Enigma",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1463]16",
+       "name": "M4A4 | Falak",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1466]7",
+       "name": "AK-47 | Consequence of the Jinn",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1465]9",
+       "name": "AWP | Sovereign Flame",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Consequence of the Jinn",
+      "AWP | Sovereign Flame"
+     ]
+    }
+   }
+  },
+  "set_assault": {
+   "name_en": "The Assault Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[3]3",
+       "name": "FN57 | 红苹果",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[33]8",
+       "name": "AUG | 赤红新星",
+       "rarity": "rare"
+      },
+      {
+       "id": "[28]28",
+       "name": "内格夫 | 深蓝电镀处理",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[38]4",
+       "name": "格洛克 18 型 | 渐变之色",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[39]34",
+       "name": "MP9 | 威吓者",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "MP9 | Bulldozer",
+      "Glock-18 | Fade"
+     ]
+    }
+   }
+  },
+  "set_aztec": {
+   "name_en": "The Aztec Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[122]7",
+       "name": "AK-47 | 丛林涂装",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[16]16",
+       "name": "M4A4 | 丛林虎",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[36]30",
+       "name": "Tec-9 | 骨化之色",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": null,
+     "skins": [
+      "Tec-9 | Ossified"
+     ]
+    }
+   }
+  },
+  "set_baggage": {
+   "name_en": "The Baggage Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[343]17",
+       "name": "MAC-10 | 通勤者皮革",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[346]32",
+       "name": "P2000 | 廉价皮革",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[342]19",
+       "name": "P90 | 棕色皮革",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[363]39",
+       "name": "SG 553 | 旅行者皮革",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[345]29",
+       "name": "截短霰弹枪 | 至高皮革",
+       "rarity": "rare"
+      },
+      {
+       "id": "[364]61",
+       "name": "USP 消音版 | 商业皮革",
+       "rarity": "rare"
+      },
+      {
+       "id": "[348]25",
+       "name": "XM1014 | 红色皮革",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[341]7",
+       "name": "AK-47 | 至高皮革",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[347]1",
+       "name": "沙漠之鹰 | 飞行员",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[340]7",
+       "name": "AK-47 | 酷炫涂鸦皮革",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Jet Set"
+     ]
+    }
+   }
+  },
+  "set_bank": {
+   "name_en": "The Bank Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[294]11",
+       "name": "G3SG1 | 绿苹果",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[293]4",
+       "name": "格洛克 18 型 | 夺命撼响",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[32]17",
+       "name": "MAC-10 | 银质",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[299]35",
+       "name": "新星 | 钢笼",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[70]24",
+       "name": "UMP-45 | 碳素纤维",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[297]63",
+       "name": "CZ75 | 燕尾",
+       "rarity": "rare"
+      },
+      {
+       "id": "[296]1",
+       "name": "沙漠之鹰 | 陨星",
+       "rarity": "rare"
+      },
+      {
+       "id": "[297]13",
+       "name": "加利尔 AR | 燕尾",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[300]7",
+       "name": "AK-47 | 翡翠细条纹",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[295]36",
+       "name": "P250 | 富兰克林",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "P250 | Franklin"
+     ]
+    }
+   }
+  },
+  "set_blacksite": {
+   "name_en": "The Blacksite Collection",
+   "name_zh": null,
+   "tiers": {
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "MP5-SD | Lab Rats"
+     ]
+    }
+   }
+  },
+  "set_bravo_i": {
+   "name_en": "The Bravo Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[189]60",
+       "name": "M4A1 消音型 | 澄澈之水",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[187]16",
+       "name": "M4A4 | 星级",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[188]17",
+       "name": "MAC-10 | 不可磨灭",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[183]61",
+       "name": "USP 消音版 | 疯狂蔓延",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[212]9",
+       "name": "AWP | 石墨黑",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[211]32",
+       "name": "P2000 | 海之泡沫",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[182]19",
+       "name": "P90 | 翡翠之龙",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[180]7",
+       "name": "AK-47 | 火蛇",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[185]1",
+       "name": "沙漠之鹰 | 黄金锦鲤",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Fire Serpent",
+      "Desert Eagle | Golden Koi"
+     ]
+    }
+   }
+  },
+  "set_bravo_ii": {
+   "name_en": "The Alpha Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[208]4",
+       "name": "格洛克 18 型 | 沙丘之黄",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[201]28",
+       "name": "内格夫 | 棕榈色",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[207]36",
+       "name": "P250 | 多面体",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[204]29",
+       "name": "截短霰弹枪 | 马赛克",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[200]40",
+       "name": "SSG 08 | 玛雅之梦",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[197]8",
+       "name": "AUG | 深蓝电镀处理",
+       "rarity": "rare"
+      },
+      {
+       "id": "[198]27",
+       "name": "MAG-7 | 危机色调",
+       "rarity": "rare"
+      },
+      {
+       "id": "[203]26",
+       "name": "PP-野牛 | 外表生锈",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[194]10",
+       "name": "法玛斯 | 喷焰者",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[196]38",
+       "name": "SCAR-20 | 翡翠色调",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "SCAR-20 | Emerald",
+      "FAMAS | Spitfire"
+     ]
+    }
+   }
+  },
+  "set_cache": {
+   "name_en": "The Cache Collection",
+   "name_zh": null,
+   "tiers": {
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[367]4",
+       "name": "格洛克 18 型 | 核子反应",
+       "rarity": "rare"
+      },
+      {
+       "id": "[372]17",
+       "name": "MAC-10 | 核子花园",
+       "rarity": "rare"
+      },
+      {
+       "id": "[368]34",
+       "name": "MP9 | 落日",
+       "rarity": "rare"
+      },
+      {
+       "id": "[374]30",
+       "name": "Tec-9 | 核子剧毒",
+       "rarity": "rare"
+      },
+      {
+       "id": "[370]25",
+       "name": "XM1014 | 碾骨机",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[371]10",
+       "name": "法玛斯 | 冥界之憎",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[379]13",
+       "name": "加利尔 AR | 地狱看门犬",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "Galil AR | Cerberus",
+      "FAMAS | Styx"
+     ]
+    }
+   }
+  },
+  "set_canals": {
+   "name_en": "The Canals Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[745]7",
+       "name": "AK-47 | 巴洛克之紫",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[741]36",
+       "name": "P250 | 暗之镂刻",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[864]39",
+       "name": "SG 553 | 红苹果",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[738]30",
+       "name": "Tec-9 | 穆拉诺之橙",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[453]2",
+       "name": "双持贝瑞塔 | 翡翠色调",
+       "rarity": "rare"
+      },
+      {
+       "id": "[739]11",
+       "name": "G3SG1 | 穆拉诺之紫",
+       "rarity": "rare"
+      },
+      {
+       "id": "[744]19",
+       "name": "P90 | 巴洛克之红",
+       "rarity": "rare"
+      },
+      {
+       "id": "[743]40",
+       "name": "SSG 08 | 橙黄镂刻",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[742]17",
+       "name": "MAC-10 | 绯红镂刻",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[867]34",
+       "name": "MP9 | 彩绘玻璃",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[746]35",
+       "name": "新星 | 巴洛克之橙",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[737]27",
+       "name": "MAG-7 | 五指短剑",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[736]9",
+       "name": "AWP | 王子",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | The Prince"
+     ]
+    }
+   }
+  },
+  "set_chopshop": {
+   "name_en": "The Chop Shop Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[40]1",
+       "name": "沙漠之鹰 | 噩梦之夜",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[237]13",
+       "name": "加利尔 AR | 都市瓦砾",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[454]61",
+       "name": "USP 消音版 | 绿色伞兵",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[453]63",
+       "name": "CZ75 | 翡翠色调",
+       "rarity": "rare"
+      },
+      {
+       "id": "[254]3",
+       "name": "FN57 | 氮化处理",
+       "rarity": "rare"
+      },
+      {
+       "id": "[38]17",
+       "name": "MAC-10 | 渐变之色",
+       "rarity": "rare"
+      },
+      {
+       "id": "[250]33",
+       "name": "MP7 | 逮捕者",
+       "rarity": "rare"
+      },
+      {
+       "id": "[102]36",
+       "name": "P250 | 银装素裹",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[447]2",
+       "name": "双持贝瑞塔 | 决斗家",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[39]39",
+       "name": "SG 553 | 威吓者",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[437]4",
+       "name": "格洛克 18 型 | 暮光星系",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[445]60",
+       "name": "M4A1 消音型 | 赤红新星",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Hot Rod",
+      "Glock-18 | Twilight Galaxy"
+     ]
+    }
+   }
+  },
+  "set_cobblestone": {
+   "name_en": "The Cobblestone Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[32]27",
+       "name": "MAG-7 | 银质",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[294]35",
+       "name": "新星 | 绿苹果",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[323]29",
+       "name": "截短霰弹枪 | 外表生锈",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[332]61",
+       "name": "USP 消音版 | 宝蓝之色",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[329]34",
+       "name": "MP9 | 黑暗时代",
+       "rarity": "rare"
+      },
+      {
+       "id": "[327]32",
+       "name": "P2000 | 坚固链甲",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[325]63",
+       "name": "CZ75 | 复古圣杯",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[328]1",
+       "name": "沙漠之鹰 | 手上加农炮",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[326]60",
+       "name": "M4A1 消音型 | 骑士",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[344]9",
+       "name": "AWP | 巨龙传说",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Dragon Lore"
+     ]
+    }
+   }
+  },
+  "set_community_1": {
+   "name_en": "The Winter Offensive Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[261]2",
+       "name": "双持贝瑞塔 | 海斗士",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[260]10",
+       "name": "法玛斯 | 电子脉冲",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[262]34",
+       "name": "MP9 | 铁血玫瑰",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[263]35",
+       "name": "新星 | 惊惧骷髅",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[259]9",
+       "name": "AWP | 红线",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[257]60",
+       "name": "M4A1 消音型 | 守护者",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[258]36",
+       "name": "P250 | 曼海蒂",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[255]16",
+       "name": "M4A4 | 二西莫夫",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[256]29",
+       "name": "截短霰弹枪 | 北海巨妖",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A4 | Asiimov",
+      "Sawed-Off | The Kraken"
+     ]
+    }
+   }
+  },
+  "set_community_10": {
+   "name_en": "The Revolver Case Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[510]3",
+       "name": "FN57 | 朝枪夕拾",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[514]28",
+       "name": "内格夫 | 动力装载机",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[508]26",
+       "name": "PP-野牛 | 核燃料棒",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[519]39",
+       "name": "SG 553 | 豹灯蛾",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[520]30",
+       "name": "Tec-9 | 坍雪寒裘",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[521]25",
+       "name": "XM1014 | 特克卢喷射者",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[506]7",
+       "name": "AK-47 | 混沌点阵",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[511]11",
+       "name": "G3SG1 | 行刑者",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[516]19",
+       "name": "P90 | 精雕木刻",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[512]16",
+       "name": "M4A4 | 皇家圣骑士",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[522]64",
+       "name": "R8 左轮手枪 | 渐变之色",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A4 | Royal Paladin",
+      "R8 Revolver | Fade"
+     ]
+    }
+   }
+  },
+  "set_community_11": {
+   "name_en": "The Wildfire Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[529]10",
+       "name": "法玛斯 | 元素轮廓",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[530]3",
+       "name": "FN57 | 三位一体",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[532]4",
+       "name": "格洛克 18 型 | 皇家军团",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[535]27",
+       "name": "MAG-7 | 禁卫军",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[536]33",
+       "name": "MP7 | 帝国",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[525]9",
+       "name": "AWP | 精英之作",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[527]1",
+       "name": "沙漠之鹰 | 大佬龙",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[537]35",
+       "name": "新星 | 暴怒野兽",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[524]7",
+       "name": "AK-47 | 燃料喷射器",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[533]16",
+       "name": "M4A4 | 战场之星",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Fuel Injector",
+      "M4A4 | The Battlestar"
+     ]
+    }
+   }
+  },
+  "set_community_12": {
+   "name_en": "The Chroma 3 Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[543]63",
+       "name": "CZ75 | 红鹰",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[546]13",
+       "name": "加利尔 AR | 火线冲锋",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[554]40",
+       "name": "SSG 08 | 幽灵战士",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[555]30",
+       "name": "Tec-9 | 战火重燃",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[557]25",
+       "name": "XM1014 | 西装革履",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[541]8",
+       "name": "AUG | 燕群",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[551]36",
+       "name": "P250 | 二西莫夫",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[556]24",
+       "name": "UMP-45 | 野蛮剑齿虎",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[548]60",
+       "name": "M4A1 消音型 | 女火神之炽焰",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[542]26",
+       "name": "PP-野牛 | 阿努比斯之审判",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Chantico's Fire",
+      "PP-Bizon | Judgement of Anubis"
+     ]
+    }
+   }
+  },
+  "set_community_13": {
+   "name_en": "The Gamma Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[583]8",
+       "name": "AUG | 贵族",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[584]9",
+       "name": "AWP | 火卫一",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[593]19",
+       "name": "P90 | 夺命器",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[595]64",
+       "name": "R8 左轮手枪 | 重新启动",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[596]29",
+       "name": "截短霰弹枪 | 聚光灯",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[588]16",
+       "name": "M4A4 | 死寂空间",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[591]32",
+       "name": "P2000 | 至尊威龙",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[597]38",
+       "name": "SCAR-20 | 血腥运动",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[586]4",
+       "name": "格洛克 18 型 | 荒野反叛",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[587]60",
+       "name": "M4A1 消音型 | 机械工业",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Mecha Industries",
+      "Glock-18 | Wasteland Rebel"
+     ]
+    }
+   }
+  },
+  "set_community_15": {
+   "name_en": "The Glove Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[625]2",
+       "name": "双持贝瑞塔 | 皇室伴侣",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[628]11",
+       "name": "G3SG1 | 毒刺",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[631]60",
+       "name": "M4A1 消音型 | 闪回",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[634]35",
+       "name": "新星 | 毒蜥",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[637]61",
+       "name": "USP 消音版 | 次时代",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[626]10",
+       "name": "法玛斯 | 机械工业",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[636]19",
+       "name": "P90 | 浅坟",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[638]29",
+       "name": "截短霰弹枪 | 荒野公主",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[632]16",
+       "name": "M4A4 | 喧嚣杀戮",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[624]40",
+       "name": "SSG 08 | 炎龙之焰",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A4 | Buzz Kill",
+      "SSG 08 | Dragonfire"
+     ]
+    }
+   }
+  },
+  "set_community_16": {
+   "name_en": "The Spectrum Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[647]13",
+       "name": "加利尔 AR | 深红海啸",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[648]14",
+       "name": "M249 | 翠绿箭毒蛙",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[651]17",
+       "name": "MAC-10 | 绝界之行",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[652]24",
+       "name": "UMP-45 | 支架",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[654]25",
+       "name": "XM1014 | 四季",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[640]9",
+       "name": "AWP | 浮生如梦",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[643]63",
+       "name": "CZ75 | 相柳",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[644]60",
+       "name": "M4A1 消音型 | 毁灭者 2000",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[639]7",
+       "name": "AK-47 | 血腥运动",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[653]61",
+       "name": "USP 消音版 | 黑色魅影",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Bloodsport",
+      "USP-S | Neo-Noir"
+     ]
+    }
+   }
+  },
+  "set_community_17": {
+   "name_en": "The Operation Hydra Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[656]7",
+       "name": "AK-47 | 轨道 Mk01",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[667]32",
+       "name": "P2000 | 林间猎者",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[668]36",
+       "name": "P250 | 红岩",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[669]19",
+       "name": "P90 | 死亡之握",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[670]40",
+       "name": "SSG 08 | 鬼脸天蛾",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[658]2",
+       "name": "双持贝瑞塔 | 毒蛇袭击",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[661]13",
+       "name": "加利尔 AR | ~甜甜的~",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[664]16",
+       "name": "M4A4 | 地狱烈焰",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[662]9",
+       "name": "AWP | 鬼退治",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[660]3",
+       "name": "FN57 | 暴怒野兽",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Oni Taiji",
+      "Five-SeveN | Hyper Beast"
+     ]
+    }
+   }
+  },
+  "set_community_18": {
+   "name_en": "The Spectrum 2 Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[687]63",
+       "name": "CZ75 | 战术高手",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[679]34",
+       "name": "MP9 | 焦油缠绕",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[686]39",
+       "name": "SG 553 | 幻影",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[688]24",
+       "name": "UMP-45 | 曝光",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[689]25",
+       "name": "XM1014 | 五彩斑驳",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[681]60",
+       "name": "M4A1 消音型 | 破碎铅秋",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[676]26",
+       "name": "PP-野牛 | 买定离手",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[683]64",
+       "name": "R8 左轮手枪 | 美洲驼炮",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[675]7",
+       "name": "AK-47 | 皇后",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[678]36",
+       "name": "P250 | 生化短吻鳄",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | The Empress",
+      "P250 | See Ya Later"
+     ]
+    }
+   }
+  },
+  "set_community_19": {
+   "name_en": "The Clutch Collection",
+   "name_zh": "命悬一线武器箱",
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[694]4",
+       "name": "格洛克 18 型 | 城里的月光",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[703]27",
+       "name": "MAG-7 | SWAG-7",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[698]28",
+       "name": "内格夫 | 狮子鱼",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[699]35",
+       "name": "新星 | 狂野六号",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[704]24",
+       "name": "UMP-45 | 白狼",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[690]8",
+       "name": "AUG | 湖怪鸟",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[691]9",
+       "name": "AWP | 死神",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[705]61",
+       "name": "USP 消音版 | 脑洞大开",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[695]16",
+       "name": "M4A4 | 黑色魅影",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[696]33",
+       "name": "MP7 | 血腥运动",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A4 | Neo-Noir",
+      "MP7 | Bloodsport"
+     ]
+    }
+   }
+  },
+  "set_community_2": {
+   "name_en": "The Phoenix Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[288]10",
+       "name": "法玛斯 | 中士",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[284]17",
+       "name": "MAC-10 | 炽热",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[287]39",
+       "name": "SG 553 | 电子脉冲",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[290]61",
+       "name": "USP 消音版 | 守护者",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[282]7",
+       "name": "AK-47 | 红线",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[286]35",
+       "name": "新星 | 古董枪",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[283]19",
+       "name": "P90 | 三角",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[280]8",
+       "name": "AUG | 变色龙",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[279]9",
+       "name": "AWP | 二西莫夫",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AUG | Chameleon",
+      "AWP | Asiimov"
+     ]
+    }
+   }
+  },
+  "set_community_20": {
+   "name_en": "The Horizon Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[718]9",
+       "name": "AWP | 猫猫狗狗",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[709]63",
+       "name": "CZ75 | 经济",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[712]11",
+       "name": "G3SG1 | 公海",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[719]33",
+       "name": "MP7 | 权力之心",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[716]35",
+       "name": "新星 | 玩具士兵",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[723]10",
+       "name": "法玛斯 | 雅典娜之眼",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[714]60",
+       "name": "M4A1 消音型 | 梦魇",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[720]29",
+       "name": "截短霰弹枪 | 吞噬",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[707]7",
+       "name": "AK-47 | 霓虹骑士",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[711]1",
+       "name": "沙漠之鹰 | 红色代号",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Neon Rider",
+      "Desert Eagle | Code Red"
+     ]
+    }
+   }
+  },
+  "set_community_21": {
+   "name_en": "The Danger Zone Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[806]11",
+       "name": "G3SG1 | 净化者",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[807]13",
+       "name": "加利尔 AR | 信号灯",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[812]17",
+       "name": "MAC-10 | 销声",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[813]36",
+       "name": "P250 | 影魔",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[817]61",
+       "name": "USP 消音版 | 闪回",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[805]1",
+       "name": "沙漠之鹰 | 机械工业",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[810]23",
+       "name": "MP5-SD | 磷光体",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[802]24",
+       "name": "UMP-45 | 动量",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[801]7",
+       "name": "AK-47 | 二西莫夫",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[803]9",
+       "name": "AWP | 黑色魅影",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Asiimov",
+      "AWP | Neo-Noir"
+     ]
+    }
+   }
+  },
+  "set_community_22": {
+   "name_en": "The Prisma Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[838]9",
+       "name": "AWP | 树蝰",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[841]1",
+       "name": "沙漠之鹰 | 轻轨",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[846]23",
+       "name": "MP5-SD | 高斯",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[839]30",
+       "name": "Tec-9 | 青竹伪装",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[851]24",
+       "name": "UMP-45 | 城里的月光",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[845]8",
+       "name": "AUG | 动量",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[843]64",
+       "name": "R8 左轮手枪 | 头骨粉碎者",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[850]25",
+       "name": "XM1014 | 焚烬之鳄",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[837]3",
+       "name": "FN57 | 怒氓",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[844]16",
+       "name": "M4A4 | 皇帝",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "Five-SeveN | Angry Mob",
+      "M4A4 | The Emperor"
+     ]
+    }
+   }
+  },
+  "set_community_23": {
+   "name_en": "The Shattered Web Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[885]7",
+       "name": "AK-47 | 复古浪潮",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[886]8",
+       "name": "AUG | 极地孤狼",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[893]33",
+       "name": "MP7 | 七彩斑斓",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[894]32",
+       "name": "P2000 | 黑曜石",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[884]26",
+       "name": "PP-野牛 | 路霸",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[897]39",
+       "name": "SG 553 | 四号栖息地",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[899]40",
+       "name": "SSG 08 | 喋血战士",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[889]30",
+       "name": "Tec-9 | 屠杀者",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[887]9",
+       "name": "AWP | 冲出重围",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[898]17",
+       "name": "MAC-10 | 潜行者",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Containment Breach",
+      "MAC-10 | Stalker"
+     ]
+    }
+   }
+  },
+  "set_community_24": {
+   "name_en": "The CS20 Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[906]3",
+       "name": "FN57 | 好兄弟",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[902]14",
+       "name": "M249 | 阿兹特克",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[915]23",
+       "name": "MP5-SD | 探员",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[907]36",
+       "name": "P250 | 炼狱小镇",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[916]24",
+       "name": "UMP-45 | 塑胶炸弹",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[913]8",
+       "name": "AUG | 汪之萌杀",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[910]34",
+       "name": "MP9 | 九头蛇",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[911]19",
+       "name": "P90 | 往日行动",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[917]9",
+       "name": "AWP | 野火",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[919]10",
+       "name": "法玛斯 | 纪念碑",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Wildfire",
+      "FAMAS | Commemoration"
+     ]
+    }
+   }
+  },
+  "set_community_25": {
+   "name_en": "The Prisma 2 Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[951]32",
+       "name": "P2000 | 酸蚀",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[953]29",
+       "name": "截短霰弹枪 | 启示录",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[954]38",
+       "name": "SCAR-20 | 执行者",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[955]39",
+       "name": "SG 553 | 黯翼",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[956]40",
+       "name": "SSG 08 | 浮生如梦",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[941]7",
+       "name": "AK-47 | 幻影破坏者",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[947]17",
+       "name": "MAC-10 | 渐变迪斯科",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[948]27",
+       "name": "MAG-7 | 正义",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[957]4",
+       "name": "格洛克 18 型 | 子弹皇后",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[946]60",
+       "name": "M4A1 消音型 | 二号玩家",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Player Two",
+      "Glock-18 | Bullet Queen"
+     ]
+    }
+   }
+  },
+  "set_community_26": {
+   "name_en": "The Fracture Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[972]13",
+       "name": "加利尔 AR | 凤凰商号",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[965]17",
+       "name": "MAC-10 | 魅惑",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[961]27",
+       "name": "MAG-7 | 北冥有鱼",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[974]23",
+       "name": "MP5-SD | 猛烈冲锋",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[964]30",
+       "name": "Tec-9 | 兄弟连",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[963]4",
+       "name": "格洛克 18 型 | 摩登时代",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[971]16",
+       "name": "M4A4 | 齿仙",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[970]25",
+       "name": "XM1014 | 埋葬之影",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[959]7",
+       "name": "AK-47 | 阿努比斯军团",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[962]1",
+       "name": "沙漠之鹰 | 印花集",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Legion of Anubis",
+      "Desert Eagle | Printstream"
+     ]
+    }
+   }
+  },
+  "set_community_27": {
+   "name_en": "The Operation Broken Fang Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[975]9",
+       "name": "AWP | 亡灵之主",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[978]2",
+       "name": "双持贝瑞塔 | 灾难",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[987]35",
+       "name": "新星 | 一见青心",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[989]40",
+       "name": "SSG 08 | 抖枪",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[990]24",
+       "name": "UMP-45 | 金铋辉煌",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[979]3",
+       "name": "FN57 | 童话城堡",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[985]16",
+       "name": "M4A4 | 赛博",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[991]61",
+       "name": "USP 消音版 | 小绿怪",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[988]4",
+       "name": "格洛克 18 型 | 黑色魅影",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[984]60",
+       "name": "M4A1 消音型 | 印花集",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Printstream",
+      "Glock-18 | Neo-Noir"
+     ]
+    }
+   }
+  },
+  "set_community_28": {
+   "name_en": "The Snakebite Collection",
+   "name_zh": "蛇噬武器箱",
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1035]7",
+       "name": "AK-47 | 墨岩",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1050]1",
+       "name": "沙漠之鹰 | 后发制人",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1045]17",
+       "name": "MAC-10 | 战争手柄",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1043]28",
+       "name": "内格夫 | 橙灰之名",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1044]36",
+       "name": "P250 | 赛博先锋",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1038]13",
+       "name": "加利尔 AR | 迷人眼",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1037]34",
+       "name": "MP9 | 爆裂食物链",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1046]25",
+       "name": "XM1014 | 要抱抱",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1041]16",
+       "name": "M4A4 | 活色生香",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1040]61",
+       "name": "USP 消音版 | 倒吊人",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A4 | In Living Color",
+      "USP-S | The Traitor"
+     ]
+    }
+   }
+  },
+  "set_community_29": {
+   "name_en": "The Operation Riptide Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1092]10",
+       "name": "法玛斯 | ZX81 彩色",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1093]3",
+       "name": "FN57 | 同步力场",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1097]16",
+       "name": "M4A4 | 彼岸花",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1089]27",
+       "name": "MAG-7 | 铋晶体",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1094]34",
+       "name": "MP9 | 富士山",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1100]4",
+       "name": "格洛克 18 型 | 零食派对",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1098]17",
+       "name": "MAC-10 | 玩具盒子",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1101]40",
+       "name": "SSG 08 | 速度激情",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1087]7",
+       "name": "AK-47 | 抽象派 1337",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1090]1",
+       "name": "沙漠之鹰 | 纵横波涛",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Leet Museo",
+      "Desert Eagle | Ocean Drive"
+     ]
+    }
+   }
+  },
+  "set_community_3": {
+   "name_en": "The Huntsman Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[305]8",
+       "name": "AUG | 力矩",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[310]17",
+       "name": "MAC-10 | 诅咒",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[337]17",
+       "name": "MAC-10 | 烧尽",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[306]26",
+       "name": "PP-野牛 | 古董枪",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[314]25",
+       "name": "XM1014 | 天空守卫",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[301]60",
+       "name": "M4A1 消音型 | 原子合金",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[312]38",
+       "name": "SCAR-20 | 次时代",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[339]61",
+       "name": "USP 消音版 | 凯门鳄",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[313]61",
+       "name": "USP 消音版 | 猎户",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[302]7",
+       "name": "AK-47 | 火神",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[336]16",
+       "name": "M4A4 | 沙漠精英",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Vulcan",
+      "M4A4 | Desert-Strike"
+     ]
+    }
+   }
+  },
+  "set_community_30": {
+   "name_en": "The Dreams & Nightmares Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1129]11",
+       "name": "G3SG1 | 梦之林地",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1130]60",
+       "name": "M4A1 消音型 | 夜无眠",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1125]26",
+       "name": "PP-野牛 | 太空猫",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1136]61",
+       "name": "USP 消音版 | 地狱门票",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1135]25",
+       "name": "XM1014 | 行尸攻势",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1126]2",
+       "name": "双持贝瑞塔 | 瓜瓜",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1127]10",
+       "name": "法玛斯 | 目皆转睛",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1133]33",
+       "name": "MP7 | 幽幻深渊",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1141]7",
+       "name": "AK-47 | 夜愿",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1134]34",
+       "name": "MP9 | 星使",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Nightwish",
+      "MP9 | Starlight Protector"
+     ]
+    }
+   }
+  },
+  "set_community_31": {
+   "name_en": "The Recoil Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1156]2",
+       "name": "双持贝瑞塔 | 食人花",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1148]14",
+       "name": "M249 | 闹市区",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1154]19",
+       "name": "P90 | 给爷冲",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1145]64",
+       "name": "R8 左轮手枪 | 疯狂老八",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1151]39",
+       "name": "SG 553 | 青龙",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1143]7",
+       "name": "AK-47 | 可燃冰",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1153]36",
+       "name": "P250 | 迷人幻象",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1155]29",
+       "name": "截短霰弹枪 | 么么",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1144]9",
+       "name": "AWP | 迷人眼",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1142]61",
+       "name": "USP 消音版 | 印花集",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Chromatic Aberration",
+      "USP-S | Printstream"
+     ]
+    }
+   }
+  },
+  "set_community_32": {
+   "name_en": "The Revolution Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1227]4",
+       "name": "格洛克 18 型 | 圆影玉兔",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1223]60",
+       "name": "M4A1 消音型 | 隐伏帝王龙",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1229]17",
+       "name": "MAC-10 | 错觉",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1233]19",
+       "name": "P90 | 元女王",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1232]64",
+       "name": "R8 左轮手枪 | 蕉农炮",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1222]9",
+       "name": "AWP | 金粉肆蛇",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1224]32",
+       "name": "P2000 | 变态杀戮",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1236]24",
+       "name": "UMP-45 | 野孩子",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1221]7",
+       "name": "AK-47 | 一发入魂",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1228]16",
+       "name": "M4A4 | 反冲精英",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Head Shot",
+      "M4A4 | Temukau"
+     ]
+    }
+   }
+  },
+  "set_community_33": {
+   "name_en": "The Kilowatt Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1168]3",
+       "name": "FN57 | 混合体",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1167]4",
+       "name": "格洛克 18 型 | 崩络克-18",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1165]16",
+       "name": "M4A4 | 蚀刻领主",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1163]33",
+       "name": "MP7 | 笑一个",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1160]29",
+       "name": "截短霰弹枪 | 模拟输入",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1166]60",
+       "name": "M4A1 消音型 | 黑莲花",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1173]61",
+       "name": "USP 消音版 | 破颚者",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1172]31",
+       "name": "宙斯 X27 电击枪 | 奥林匹斯",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1171]7",
+       "name": "AK-47 | 传承",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1170]9",
+       "name": "AWP | 镀铬大炮",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Inheritance",
+      "AWP | Chrome Cannon"
+     ]
+    }
+   }
+  },
+  "set_community_34": {
+   "name_en": "The Gallery Collection",
+   "name_zh": "画廊武器箱收藏品",
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[112]2",
+       "name": "Dual Berettas | Hydro Strike",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[118]16",
+       "name": "M4A4 | Turbine",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[126]17",
+       "name": "MAC-10 | Saibā Oni",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[127]19",
+       "name": "P90 | Randy Rush",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[128]40",
+       "name": "SSG 08 | Rapid Transit",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[113]7",
+       "name": "AK-47 | The Outsiders",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[130]36",
+       "name": "P250 | Epicenter",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[131]24",
+       "name": "UMP-45 | Neo-Noir",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[129]4",
+       "name": "Glock-18 | Gold Toof",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[106]60",
+       "name": "M4A1-S | Vaporwave",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "Glock-18 | Gold Toof",
+      "M4A1-S | Vaporwave"
+     ]
+    }
+   }
+  },
+  "set_community_35": {
+   "name_en": "The Fever Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1189]1",
+       "name": "沙漠之鹰 | 巨蟒冲击",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1185]13",
+       "name": "加利尔 AR | 控制",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1192]35",
+       "name": "新星 | 初升之樱",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1190]19",
+       "name": "P90 | 破浪者",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1183]31",
+       "name": "宙斯 X27 电击枪 | 当岁鱼",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1207]7",
+       "name": "AK-47 | 灼心怒焰",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1208]4",
+       "name": "格洛克 18 型 | 忍瞳",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1194]24",
+       "name": "UMP-45 | K.O.工厂",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1206]9",
+       "name": "AWP | 印花集",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1184]10",
+       "name": "法玛斯 | 幻灭之旅",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Printstream",
+      "FAMAS | Bad Trip"
+     ]
+    }
+   }
+  },
+  "set_community_36": {
+   "name_en": "The Genesis Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1347]2",
+       "name": "Dual Berettas | Angel Eyes",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1340]60",
+       "name": "M4A1-S | Liquidation",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1349]17",
+       "name": "MAC-10 | Cat Fight",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1350]35",
+       "name": "Nova | Ocular",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1351]24",
+       "name": "UMP-45 | Continuum",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1346]9",
+       "name": "AWP | Ice Coaled",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1348]4",
+       "name": "Glock-18 | Mirror Mosaic",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1354]33",
+       "name": "MP7 | Smoking Kills",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1352]7",
+       "name": "AK-47 | The Oligarch",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1353]16",
+       "name": "M4A4 | Full Throttle",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | The Oligarch",
+      "M4A4 | Full Throttle"
+     ]
+    }
+   }
+  },
+  "set_community_37": {
+   "name_en": "The Dead Hand Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1430]1",
+       "name": "Desert Eagle | Firebreathing",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1434]13",
+       "name": "Galil AR | Galigator",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1433]60",
+       "name": "M4A1-S | Electrum",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1436]33",
+       "name": "MP7 | Amberline",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1423]34",
+       "name": "MP9 | Urban Sovereign",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1425]7",
+       "name": "AK-47 | Crane Flight",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1420]36",
+       "name": "P250 | Kintsugi",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1419]19",
+       "name": "P90 | Deathgaze",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1422]9",
+       "name": "AWP | Queen's Gambit",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1421]4",
+       "name": "Glock-18 | Fully Tuned",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Queen's Gambit",
+      "Glock-18 | Fully Tuned"
+     ]
+    }
+   }
+  },
+  "set_community_4": {
+   "name_en": "The Breakout Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[350]63",
+       "name": "CZ75 | 猛虎",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[356]35",
+       "name": "新星 | 锦鲤",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[358]36",
+       "name": "P250 | 超新星",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[349]26",
+       "name": "PP-野牛 | 死亡主宰者",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[351]1",
+       "name": "沙漠之鹰 | 阴谋者",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[352]3",
+       "name": "FN57 | 狩猎利器",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[353]4",
+       "name": "格洛克 18 型 | 水灵",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[360]60",
+       "name": "M4A1 消音型 | 次时代",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[359]19",
+       "name": "P90 | 二西莫夫",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Cyrex",
+      "P90 | Asiimov"
+     ]
+    }
+   }
+  },
+  "set_community_5": {
+   "name_en": "The Vanguard Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[381]4",
+       "name": "格洛克 18 型 | 粉碎者",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[383]60",
+       "name": "M4A1 消音型 | 翼蜥",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[384]16",
+       "name": "M4A4 | 狮鹫",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[390]29",
+       "name": "截短霰弹枪 | 路霸",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[388]36",
+       "name": "P250 | 卡特尔",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[391]38",
+       "name": "SCAR-20 | 心脏打击",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[393]25",
+       "name": "XM1014 | 宁静",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[380]7",
+       "name": "AK-47 | 荒野反叛",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[389]32",
+       "name": "P2000 | 火灵",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Wasteland Rebel",
+      "P2000 | Fire Elemental"
+     ]
+    }
+   }
+  },
+  "set_community_6": {
+   "name_en": "The Chroma Collection",
+   "name_zh": "幻彩武器箱",
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[397]1",
+       "name": "沙漠之鹰 | 纳迦蛇神",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[396]2",
+       "name": "双持贝瑞塔 | 都市冲击",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[402]17",
+       "name": "MAC-10 | 孔雀石",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[405]29",
+       "name": "截短霰弹枪 | 祥和之翼",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[394]7",
+       "name": "AK-47 | 卡特尔",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[400]16",
+       "name": "M4A4 | 龙王",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[404]36",
+       "name": "P250 | 死亡轮回",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[395]9",
+       "name": "AWP | 无畏战神",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[398]13",
+       "name": "加利尔 AR | 喧闹骷髅",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Man-o'-war",
+      "Galil AR | Chatterbox"
+     ]
+    }
+   }
+  },
+  "set_community_7": {
+   "name_en": "The Chroma 2 Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[424]9",
+       "name": "AWP | 蠕虫之神",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[435]63",
+       "name": "CZ75 | 先驱",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[431]27",
+       "name": "MAG-7 | 炽热",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[436]24",
+       "name": "UMP-45 | 车王",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[429]10",
+       "name": "法玛斯 | 灯神",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[427]3",
+       "name": "FN57 | 耍猴把戏",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[428]13",
+       "name": "加利尔 AR | 经济",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[430]60",
+       "name": "M4A1 消音型 | 暴怒野兽",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[433]17",
+       "name": "MAC-10 | 霓虹骑士",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Hyper Beast",
+      "MAC-10 | Neon Rider"
+     ]
+    }
+   }
+  },
+  "set_community_8": {
+   "name_en": "The Falchion Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[477]10",
+       "name": "法玛斯 | 神经网",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[480]16",
+       "name": "M4A4 | 杀意大名",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[482]34",
+       "name": "MP9 | 红宝石毒镖",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[483]28",
+       "name": "内格夫 | 大嘴巴",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[485]32",
+       "name": "P2000 | 手炮",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[476]63",
+       "name": "CZ75 | 黄夹克",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[481]33",
+       "name": "MP7 | 复仇者",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[487]39",
+       "name": "SG 553 | 次时代",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[474]7",
+       "name": "AK-47 | 深海复仇",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[475]9",
+       "name": "AWP | 暴怒野兽",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Aquamarine Revenge",
+      "AWP | Hyper Beast"
+     ]
+    }
+   }
+  },
+  "set_community_9": {
+   "name_en": "The Shadow Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[494]13",
+       "name": "加利尔 AR | 冷石",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[496]14",
+       "name": "M249 | 星云十字军",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[500]33",
+       "name": "MP7 | 速递",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[501]36",
+       "name": "P250 | 翼击",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[490]7",
+       "name": "AK-47 | 前线迷雾",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[493]11",
+       "name": "G3SG1 | 弗卢克斯",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[503]40",
+       "name": "SSG 08 | 巨铁",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[497]60",
+       "name": "M4A1 消音型 | 金蛇缠绕",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[504]61",
+       "name": "USP 消音版 | 枪响人亡",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Golden Coil",
+      "USP-S | Kill Confirmed"
+     ]
+    }
+   }
+  },
+  "set_dust": {
+   "name_en": "The Dust Collection",
+   "name_zh": null,
+   "tiers": {
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[10]8",
+       "name": "AUG | 铜斑蛇",
+       "rarity": "rare"
+      },
+      {
+       "id": "[30]9",
+       "name": "AWP | 蝮蛇迷彩",
+       "rarity": "rare"
+      },
+      {
+       "id": "[41]29",
+       "name": "截短霰弹枪 | 镀铜",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[37]1",
+       "name": "沙漠之鹰 | 炽烈之炎",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[159]4",
+       "name": "格洛克 18 型 | 黄铜",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[71]32",
+       "name": "P2000 | 致命红蝎",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "P2000 | Scorpion",
+      "Glock-18 | Brass",
+      "Desert Eagle | Blaze"
+     ]
+    }
+   }
+  },
+  "set_dust_2": {
+   "name_en": "The Dust 2 Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[72]7",
+       "name": "AK-47 | 狩猎网格",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[141]3",
+       "name": "FN57 | 橘皮涂装",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[157]17",
+       "name": "MAC-10 | 棕榈色",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[30]29",
+       "name": "截短霰弹枪 | 蝮蛇迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[235]30",
+       "name": "Tec-9 | 多变迷彩",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[235]60",
+       "name": "M4A1 消音型 | 多变迷彩",
+       "rarity": "rare"
+      },
+      {
+       "id": "[159]26",
+       "name": "PP-野牛 | 黄铜",
+       "rarity": "rare"
+      },
+      {
+       "id": "[247]39",
+       "name": "SG 553 | 大马士革钢",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[246]32",
+       "name": "P2000 | 渐变琥珀",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[523]64",
+       "name": "R8 左轮手枪 | 渐变琥珀",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "R8 Revolver | Amber Fade"
+     ]
+    }
+   }
+  },
+  "set_dust_2_2021": {
+   "name_en": "The 2021 Dust 2 Collection",
+   "name_zh": "2021 炙热沙城 II 收藏品",
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[927]8",
+       "name": "AUG | 朽木",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[932]3",
+       "name": "FN57 | 紫藤老树",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[933]14",
+       "name": "M249 | 夜半棕榈",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[931]34",
+       "name": "MP9 | 残花败藤",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[930]11",
+       "name": "G3SG1 | 碧藤青翠",
+       "rarity": "rare"
+      },
+      {
+       "id": "[246]13",
+       "name": "加利尔 AR | 渐变琥珀",
+       "rarity": "rare"
+      },
+      {
+       "id": "[929]35",
+       "name": "新星 | 流沙",
+       "rarity": "rare"
+      },
+      {
+       "id": "[928]36",
+       "name": "P250 | 潜藏者",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[926]16",
+       "name": "M4A4 | 红色 DDPAT",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[44]17",
+       "name": "MAC-10 | 表面淬火",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[922]61",
+       "name": "USP 消音版 | 橙红安乐蜥",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1052]40",
+       "name": "SSG 08 | 致命一击",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[879]24",
+       "name": "UMP-45 | 渐变之色",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[921]7",
+       "name": "AK-47 | 黄金藤蔓",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Gold Arabesque"
+     ]
+    }
+   }
+  },
+  "set_esports": {
+   "name_en": "The eSports 2013 Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[83]13",
+       "name": "加利尔 AR | 橙黄 DDPAT",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[162]36",
+       "name": "P250 | 狂野飞溅",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[83]29",
+       "name": "截短霰弹枪 | 橙黄 DDPAT",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[14]7",
+       "name": "AK-47 | 红色层压板",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[174]9",
+       "name": "AWP | *嘣*",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[156]19",
+       "name": "P90 | 喵之萌杀",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "P90 | Death by Kitty"
+     ]
+    }
+   }
+  },
+  "set_esports_ii": {
+   "name_en": "The eSports 2013 Winter Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[226]7",
+       "name": "AK-47 | 蓝色层压板",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[228]19",
+       "name": "P90 | 盲点",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[227]9",
+       "name": "AWP | 电子蜂巢",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[231]1",
+       "name": "沙漠之鹰 | 钴蓝禁锢",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[154]10",
+       "name": "法玛斯 | 残影",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[215]16",
+       "name": "M4A4 | X 射线",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A4 | X-Ray"
+     ]
+    }
+   }
+  },
+  "set_esports_iii": {
+   "name_en": "The eSports 2014 Summer Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[232]1",
+       "name": "沙漠之鹰 | 深红之网",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[230]4",
+       "name": "格洛克 18 型 | 钢铁禁锢",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[213]33",
+       "name": "MP7 | 海之泡沫",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[20]19",
+       "name": "P90 | 病毒危机",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[13]26",
+       "name": "PP-野牛 | 水蓝条纹",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[9]8",
+       "name": "AUG | 孟加拉猛虎",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[181]9",
+       "name": "AWP | 珊瑚树",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[62]35",
+       "name": "新星 | 樱花之绚烂",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[184]32",
+       "name": "P2000 | 珊瑚树",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[316]7",
+       "name": "AK-47 | 美洲猛虎",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[155]16",
+       "name": "M4A4 | 弹雨",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Jaguar",
+      "M4A4 | Bullet Rain"
+     ]
+    }
+   }
+  },
+  "set_gamma_2": {
+   "name_en": "The Gamma 2 Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[603]1",
+       "name": "沙漠之鹰 | 指挥",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[607]4",
+       "name": "格洛克 18 型 | 鼬鼠",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[608]27",
+       "name": "MAG-7 | 石雕",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[612]38",
+       "name": "SCAR-20 | 权力之心",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[613]39",
+       "name": "SG 553 | 三巨头",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[601]8",
+       "name": "AUG | 席德.米德",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[609]34",
+       "name": "MP9 | 气密",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[614]30",
+       "name": "Tec-9 | 燃料喷射器",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[600]7",
+       "name": "AK-47 | 霓虹革命",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[604]10",
+       "name": "法玛斯 | 防滚架",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Neon Revolution",
+      "FAMAS | Roll Cage"
+     ]
+    }
+   }
+  },
+  "set_gods_and_monsters": {
+   "name_en": "The Gods and Monsters Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[451]9",
+       "name": "AWP | 狮子之日",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[452]14",
+       "name": "M249 | 海滨预测者",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[443]32",
+       "name": "P2000 | 寻路者",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[439]30",
+       "name": "Tec-9 | 哈迪斯",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[448]34",
+       "name": "MP9 | 潘多拉魔盒",
+       "rarity": "rare"
+      },
+      {
+       "id": "[441]24",
+       "name": "UMP-45 | 弥诺陶洛斯迷宫",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[438]11",
+       "name": "G3SG1 | 柯罗诺斯",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[440]60",
+       "name": "M4A1 消音型 | 伊卡洛斯殒落",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[449]16",
+       "name": "M4A4 | 波塞冬",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[446]9",
+       "name": "AWP | 美杜莎",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Medusa"
+     ]
+    }
+   }
+  },
+  "set_graphic_design": {
+   "name_en": "The Graphic Design Collection",
+   "name_zh": "平面设计收藏品",
+   "tiers": {
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[912]7",
+       "name": "AK-47 | 交叉渐变",
+       "rarity": "rare"
+      },
+      {
+       "id": "[883]38",
+       "name": "SCAR-20 | 野莓",
+       "rarity": "rare"
+      },
+      {
+       "id": "[901]39",
+       "name": "SG 553 | 浆果胶衣",
+       "rarity": "rare"
+      },
+      {
+       "id": "[834]25",
+       "name": "XM1014 | 半调转换",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[937]63",
+       "name": "CZ75 | 回转",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[874]16",
+       "name": "M4A4 | 多边形编辑",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[936]19",
+       "name": "P90 | 攻击向量",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[173]8",
+       "name": "AUG | 小猪猪",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[938]1",
+       "name": "沙漠之鹰 | 星尘拱廊",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[163]9",
+       "name": "AWP | CMYK",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | CMYK"
+     ]
+    }
+   }
+  },
+  "set_inferno": {
+   "name_en": "The Inferno Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[101]16",
+       "name": "M4A4 | 狂哮飓风",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[15]36",
+       "name": "P250 | 硝烟",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[28]2",
+       "name": "双持贝瑞塔 | 深蓝电镀处理",
+       "rarity": "rare"
+      },
+      {
+       "id": "[159]30",
+       "name": "Tec-9 | 黄铜",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": null,
+     "skins": [
+      "Tec-9 | Brass",
+      "Dual Berettas | Anodized Navy"
+     ]
+    }
+   }
+  },
+  "set_inferno_2": {
+   "name_en": "The 2018 Inferno Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[799]4",
+       "name": "格洛克 18 型 | 远光灯",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[748]17",
+       "name": "MAC-10 | 小牛皮",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[3]26",
+       "name": "PP-野牛 | 红苹果",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[798]64",
+       "name": "R8 左轮手枪 | 氮化处理",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[793]16",
+       "name": "M4A4 | 变频器",
+       "rarity": "rare"
+      },
+      {
+       "id": "[797]29",
+       "name": "截短霰弹枪 | 刹车灯",
+       "rarity": "rare"
+      },
+      {
+       "id": "[751]40",
+       "name": "SSG 08 | 手刹",
+       "rarity": "rare"
+      },
+      {
+       "id": "[796]61",
+       "name": "USP 消音版 | 引擎故障灯",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[795]7",
+       "name": "AK-47 | 安全网",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[752]33",
+       "name": "MP7 | 渐变之色",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[749]36",
+       "name": "P250 | 葡萄酒",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[747]2",
+       "name": "双持贝瑞塔 | 双涡轮",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[750]39",
+       "name": "SG 553 | 意式拉力",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "SG 553 | Integrale",
+      "Dual Berettas | Twin Turbo"
+     ]
+    }
+   }
+  },
+  "set_italy": {
+   "name_en": "The Italy Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[43]2",
+       "name": "双持贝瑞塔 | 人工染色",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[77]60",
+       "name": "M4A1 消音型 | 北方森林",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[3]35",
+       "name": "新星 | 红苹果",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[21]32",
+       "name": "P2000 | 坚毅大理石纹",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[15]24",
+       "name": "UMP-45 | 硝烟",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[240]25",
+       "name": "XM1014 | 加州迷彩",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[3]4",
+       "name": "格洛克 18 型 | 红苹果",
+       "rarity": "rare"
+      },
+      {
+       "id": "[28]33",
+       "name": "MP7 | 深蓝电镀处理",
+       "rarity": "rare"
+      },
+      {
+       "id": "[250]29",
+       "name": "截短霰弹枪 | 逮捕者",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[251]9",
+       "name": "AWP | 响尾蛇",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Pit Viper"
+     ]
+    }
+   }
+  },
+  "set_kimono": {
+   "name_en": "The Rising Sun Collection",
+   "name_zh": "旭日收藏品",
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[468]1",
+       "name": "沙漠之鹰 | 午夜风暴",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[466]36",
+       "name": "P250 | 日式深红涂装",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[460]13",
+       "name": "加利尔 AR | 水蓝阶地",
+       "rarity": "rare"
+      },
+      {
+       "id": "[462]27",
+       "name": "MAG-7 | 反梗精英",
+       "rarity": "rare"
+      },
+      {
+       "id": "[463]30",
+       "name": "Tec-9 | 梗怖分子",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[469]1",
+       "name": "沙漠之鹰 | 日落风暴 壱",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[470]1",
+       "name": "沙漠之鹰 | 日落风暴 弐",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[464]3",
+       "name": "FN57 | 日式荧光涂装",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[471]16",
+       "name": "M4A4 | 破晓",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[456]7",
+       "name": "AK-47 | 水栽竹",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[455]8",
+       "name": "AUG | 秋叶原之选",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AUG | Akihabara Accept"
+     ]
+    }
+   }
+  },
+  "set_lake": {
+   "name_en": "The Lake Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[72]9",
+       "name": "AWP | 狩猎网格",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[90]1",
+       "name": "沙漠之鹰 | 泥地杀手",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[92]10",
+       "name": "法玛斯 | 湖蓝涂装",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[236]26",
+       "name": "PP-野牛 | 午夜行动",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[42]25",
+       "name": "XM1014 | 蓝钢",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[244]19",
+       "name": "P90 | 摧枯拉朽",
+       "rarity": "rare"
+      },
+      {
+       "id": "[28]39",
+       "name": "SG 553 | 深蓝电镀处理",
+       "rarity": "rare"
+      },
+      {
+       "id": "[236]61",
+       "name": "USP 消音版 | 午夜行动",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[249]2",
+       "name": "双持贝瑞塔 | 钴蓝石英",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "Dual Berettas | Cobalt Quartz"
+     ]
+    }
+   }
+  },
+  "set_militia": {
+   "name_en": "The Militia Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[104]32",
+       "name": "P2000 | 草原落叶",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[166]35",
+       "name": "新星 | 火焰橙",
+       "rarity": "rare"
+      },
+      {
+       "id": "[164]35",
+       "name": "新星 | 现代猎手",
+       "rarity": "rare"
+      },
+      {
+       "id": "[164]36",
+       "name": "P250 | 现代猎手",
+       "rarity": "rare"
+      },
+      {
+       "id": "[164]26",
+       "name": "PP-野牛 | 现代猎手",
+       "rarity": "rare"
+      },
+      {
+       "id": "[166]25",
+       "name": "XM1014 | 火焰橙",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[164]16",
+       "name": "M4A4 | 现代猎手",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[165]38",
+       "name": "SCAR-20 | 溅射果酱",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "SCAR-20 | Splash Jam"
+     ]
+    }
+   }
+  },
+  "set_mirage": {
+   "name_en": "The Mirage Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[2]4",
+       "name": "格洛克 18 型 | 地下水",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[141]33",
+       "name": "MP7 | 橘皮涂装",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[240]28",
+       "name": "内格夫 | 加州迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[243]39",
+       "name": "SG 553 | 鳄鱼网格",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[233]40",
+       "name": "SSG 08 | 热带风暴",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[246]17",
+       "name": "MAC-10 | 渐变琥珀",
+       "rarity": "rare"
+      },
+      {
+       "id": "[33]34",
+       "name": "MP9 | 赤红新星",
+       "rarity": "rare"
+      },
+      {
+       "id": "[37]24",
+       "name": "UMP-45 | 炽烈之炎",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[39]27",
+       "name": "MAG-7 | 威吓者",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "MAG-7 | Bulldozer"
+     ]
+    }
+   }
+  },
+  "set_mirage_2021": {
+   "name_en": "The 2021 Mirage Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[933]63",
+       "name": "CZ75 | 夜半棕榈",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[824]2",
+       "name": "双持贝瑞塔 | 浮木",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[240]10",
+       "name": "法玛斯 | 加州迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[828]19",
+       "name": "P90 | 碧绿升藤",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[827]14",
+       "name": "M249 | 雪茄盒",
+       "rarity": "rare"
+      },
+      {
+       "id": "[820]34",
+       "name": "MP9 | 八音盒",
+       "rarity": "rare"
+      },
+      {
+       "id": "[765]39",
+       "name": "SG 553 | 沙漠之花",
+       "rarity": "rare"
+      },
+      {
+       "id": "[818]61",
+       "name": "USP 消音版 | 紫色 DDPAT",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[823]8",
+       "name": "AUG | 夜空沙暴",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[84]4",
+       "name": "格洛克 18 型 | 粉红 DDPAT",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[821]25",
+       "name": "XM1014 | 雅藤如嫣",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[764]1",
+       "name": "沙漠之鹰 | 沙漠之狐",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[923]23",
+       "name": "MP5-SD | 幻化绿洲",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[819]9",
+       "name": "AWP | 九头金蛇",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Desert Hydra"
+     ]
+    }
+   }
+  },
+  "set_norse": {
+   "name_en": "The Norse Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[860]2",
+       "name": "双持贝瑞塔 | 熊熊烈焰",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[862]60",
+       "name": "M4A1 消音型 | 苔藓石英",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[327]27",
+       "name": "MAG-7 | 坚固链甲",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[443]61",
+       "name": "USP 消音版 | 寻路者",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[859]63",
+       "name": "CZ75 | 翡翠石英",
+       "rarity": "rare"
+      },
+      {
+       "id": "[761]17",
+       "name": "MAC-10 | 赤金锁链",
+       "rarity": "rare"
+      },
+      {
+       "id": "[159]38",
+       "name": "SCAR-20 | 黄铜",
+       "rarity": "rare"
+      },
+      {
+       "id": "[760]25",
+       "name": "XM1014 | 寒霜锁链",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[758]8",
+       "name": "AUG | 烈焰巨蟒",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[757]1",
+       "name": "沙漠之鹰 | 翡翠巨蟒",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[759]19",
+       "name": "P90 | 星辰巨蟒",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[763]28",
+       "name": "内格夫 | 雷神之锤",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[756]9",
+       "name": "AWP | 永恒之枪",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Gungnir"
+     ]
+    }
+   }
+  },
+  "set_nuke": {
+   "name_en": "The Nuke Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[169]19",
+       "name": "P90 | 辐射警告",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[169]24",
+       "name": "UMP-45 | 辐射警告",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[169]25",
+       "name": "XM1014 | 辐射警告",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[167]16",
+       "name": "M4A4 | 辐射危机",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[168]36",
+       "name": "P250 | 核子威慑",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[179]30",
+       "name": "Tec-9 | 核子威慑",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "P250 | Nuclear Threat",
+      "Tec-9 | Nuclear Threat"
+     ]
+    }
+   }
+  },
+  "set_nuke_2": {
+   "name_en": "The 2018 Nuke Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[790]13",
+       "name": "加利尔 AR | 冰核聚变",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[780]16",
+       "name": "M4A4 | 主机",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[782]33",
+       "name": "MP7 | 主板",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[783]28",
+       "name": "内格夫 | 舱壁",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[788]9",
+       "name": "AWP | 冥界之河",
+       "rarity": "rare"
+      },
+      {
+       "id": "[781]23",
+       "name": "MP5-SD | 协处理器",
+       "rarity": "rare"
+      },
+      {
+       "id": "[786]36",
+       "name": "P250 | 交换机",
+       "rarity": "rare"
+      },
+      {
+       "id": "[776]19",
+       "name": "P90 | 设施系列·底片图",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[779]8",
+       "name": "AUG | 随机存取",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[789]4",
+       "name": "格洛克 18 型 | 核子花园",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[787]27",
+       "name": "MAG-7 | 核芯破裂",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[792]60",
+       "name": "M4A1 消音型 | 控制台",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[791]30",
+       "name": "Tec-9 | 遥控",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Control Panel",
+      "Tec-9 | Remote Control"
+     ]
+    }
+   }
+  },
+  "set_office": {
+   "name_en": "The Office Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[6]11",
+       "name": "G3SG1 | 极寒迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[76]13",
+       "name": "加利尔 AR | 冬之森林",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[75]14",
+       "name": "M249 | 暴雪大理石纹",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[102]33",
+       "name": "MP7 | 银装素裹",
+       "rarity": "rare"
+      },
+      {
+       "id": "[32]32",
+       "name": "P2000 | 银质",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": null,
+     "skins": [
+      "MP7 | Whiteout",
+      "P2000 | Silver"
+     ]
+    }
+   }
+  },
+  "set_op10_ancient": {
+   "name_en": "The Ancient Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[32]63",
+       "name": "CZ75 | 银质",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1034]11",
+       "name": "G3SG1 | 远古仪式",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1023]33",
+       "name": "MP7 | 绿野迷踪",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1019]32",
+       "name": "P2000 | 豹纹迷彩",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1033]8",
+       "name": "AUG | 璞玉",
+       "rarity": "rare"
+      },
+      {
+       "id": "[60]10",
+       "name": "法玛斯 | 黑水",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1032]13",
+       "name": "加利尔 AR | 废墟黄昏",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1024]30",
+       "name": "Tec-9 | 上古图腾",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1025]17",
+       "name": "MAC-10 | 金砖",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1031]61",
+       "name": "USP 消音版 | 远古幻想",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1021]25",
+       "name": "XM1014 | 太古传说",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1018]7",
+       "name": "AK-47 | 美洲豹",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1000]19",
+       "name": "P90 | 豹走",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1001]60",
+       "name": "M4A1 消音型 | 冒险家乐园",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Welcome to the Jungle"
+     ]
+    }
+   }
+  },
+  "set_op10_ct": {
+   "name_en": "The Control Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[992]1",
+       "name": "沙漠之鹰 | 古铜密码",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[998]2",
+       "name": "双持贝瑞塔 | 暗网总机",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[70]27",
+       "name": "MAG-7 | 碳素纤维",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[798]23",
+       "name": "MP5-SD | 氮化处理",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[993]16",
+       "name": "M4A4 | 全球攻势",
+       "rarity": "rare"
+      },
+      {
+       "id": "[997]32",
+       "name": "P2000 | 绝命密电",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1028]38",
+       "name": "SCAR-20 | 大宪章",
+       "rarity": "rare"
+      },
+      {
+       "id": "[996]40",
+       "name": "SSG 08 | 侦测",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[999]10",
+       "name": "法玛斯 | 幕后主谋",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1002]3",
+       "name": "FN57 | 蓝莓樱桃",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1003]24",
+       "name": "UMP-45 | 犯罪现场",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1017]60",
+       "name": "M4A1 消音型 | 澜磷",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1027]61",
+       "name": "USP 消音版 | 锁定",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1026]9",
+       "name": "AWP | 渐变之色",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Fade"
+     ]
+    }
+   }
+  },
+  "set_op10_t": {
+   "name_en": "The Havoc Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[1007]33",
+       "name": "MP7 | 金库悍匪",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[323]35",
+       "name": "新星 | 外表生锈",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1011]64",
+       "name": "R8 左轮手枪 | 凤凰手迹",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1008]24",
+       "name": "UMP-45 | 犬牙",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1006]1",
+       "name": "沙漠之鹰 | 午夜凶匪",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1012]28",
+       "name": "内格夫 | 凤凰徽记",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1030]36",
+       "name": "P250 | 孟加拉猛虎",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1015]19",
+       "name": "P90 | 困兽之斗",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1013]13",
+       "name": "加利尔 AR | 凤凰冥灯",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1016]4",
+       "name": "格洛克 18 型 | 富兰克林",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[61]39",
+       "name": "SG 553 | 蛊惑之色",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1029]9",
+       "name": "AWP | 锦虎",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1009]17",
+       "name": "MAC-10 | 狂蟒之灾",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1004]7",
+       "name": "AK-47 | X 射线",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | X-Ray"
+     ]
+    }
+   }
+  },
+  "set_overpass": {
+   "name_en": "The Overpass Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[17]1",
+       "name": "沙漠之鹰 | 都市 DDPAT",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[40]4",
+       "name": "格洛克 18 型 | 噩梦之夜",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[15]33",
+       "name": "MP7 | 硝烟",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[95]32",
+       "name": "P2000 | 工业牧草",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[322]63",
+       "name": "CZ75 | 氮化处理",
+       "rarity": "rare"
+      },
+      {
+       "id": "[319]40",
+       "name": "SSG 08 | 迂回路线",
+       "rarity": "rare"
+      },
+      {
+       "id": "[238]25",
+       "name": "XM1014 | 蔚蓝多变迷彩",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[84]9",
+       "name": "AWP | 粉红 DDPAT",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[318]61",
+       "name": "USP 消音版 | 公路杀手",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[321]60",
+       "name": "M4A1 消音型 | 神来之作",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Master Piece"
+     ]
+    }
+   }
+  },
+  "set_overpass_2024": {
+   "name_en": "The Overpass 2024 Collection",
+   "name_zh": "死亡游乐园2024收藏品",
+   "tiers": {
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[239]13",
+       "name": "加利尔 AR | 金属榨汁机",
+       "rarity": "rare"
+      },
+      {
+       "id": "[152]4",
+       "name": "格洛克 18 型 | 凫色涂鸦",
+       "rarity": "rare"
+      },
+      {
+       "id": "[140]17",
+       "name": "MAC-10 | 鼠鼠我呀",
+       "rarity": "rare"
+      },
+      {
+       "id": "[145]35",
+       "name": "新星 | 香肠地狱",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[134]8",
+       "name": "AUG | 扎佩姆斯之眼",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[139]2",
+       "name": "双持贝瑞塔 | 小甜使",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[146]25",
+       "name": "XM1014 | 怪物汰换",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[137]9",
+       "name": "AWP | 克拉考",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[292]31",
+       "name": "宙斯 X27 电击枪 | 鼾龙传说",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[142]7",
+       "name": "AK-47 | 怪兽在B",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | B the Monster"
+     ]
+    }
+   }
+  },
+  "set_realism_camo": {
+   "name_en": "The Sport & Field Collection",
+   "name_zh": "狩猎运动收藏品",
+   "tiers": {
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[324]35",
+       "name": "新星 | 约克夏",
+       "rarity": "rare"
+      },
+      {
+       "id": "[774]36",
+       "name": "P250 | 随便玩玩",
+       "rarity": "rare"
+      },
+      {
+       "id": "[513]40",
+       "name": "SSG 08 | 芝诺悖论",
+       "rarity": "rare"
+      },
+      {
+       "id": "[830]61",
+       "name": "USP 消音版 | 阿尔卑斯迷彩",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[831]3",
+       "name": "FN57 | 热处理",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[331]34",
+       "name": "MP9 | 极寒三色",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[412]24",
+       "name": "UMP-45 | 深红箔",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1178]13",
+       "name": "加利尔 AR | 彩虹勺",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[832]4",
+       "name": "格洛克 18 型 | AXIA",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1177]60",
+       "name": "M4A1 消音型 | 渐变之色",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Fade"
+     ]
+    }
+   }
+  },
+  "set_safehouse": {
+   "name_en": "The Safehouse Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[110]8",
+       "name": "AUG | 众枪之的",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[235]11",
+       "name": "G3SG1 | 多变迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[235]13",
+       "name": "加利尔 AR | 多变迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[243]14",
+       "name": "M249 | 鳄鱼网格",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[141]34",
+       "name": "MP9 | 橘皮涂装",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[25]61",
+       "name": "USP 消音版 | 森林之叶",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[244]10",
+       "name": "法玛斯 | 摧枯拉朽",
+       "rarity": "rare"
+      },
+      {
+       "id": "[252]3",
+       "name": "FN57 | 银白石英",
+       "rarity": "rare"
+      },
+      {
+       "id": "[253]40",
+       "name": "SSG 08 | 渐变强酸",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[254]60",
+       "name": "M4A1 消音型 | 氮化处理",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Nitro"
+     ]
+    }
+   }
+  },
+  "set_spy_tech": {
+   "name_en": "The Spy Tech Collection",
+   "name_zh": "谍影收藏品",
+   "tiers": {
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1452]8",
+       "name": "AUG | Signal Scanner",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1446]16",
+       "name": "M4A4 | Dark Operative",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1469]34",
+       "name": "MP9 | Spy Prototype",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1445]64",
+       "name": "R8 Revolver | Monarch",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1467]9",
+       "name": "AWP | Black Box",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1443]63",
+       "name": "CZ75-Auto | Hydraulics",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1442]35",
+       "name": "Nova | Smart Gun",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1476]60",
+       "name": "M4A1-S | Fatal Glitch",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1451]61",
+       "name": "USP-S | Spiral Glitch",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1449]7",
+       "name": "AK-47 | AUTOEXEC",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1450]4",
+       "name": "Glock-18 | Ghost Protocol",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | AUTOEXEC",
+      "Glock-18 | Ghost Protocol"
+     ]
+    }
+   }
+  },
+  "set_stmarc": {
+   "name_en": "The St. Marc Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[730]16",
+       "name": "M4A4 | 暗之绽放",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[726]19",
+       "name": "P90 | 日落百合",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[733]30",
+       "name": "Tec-9 | 锈叶",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[731]25",
+       "name": "XM1014 | 芭蕉叶",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[869]10",
+       "name": "法玛斯 | 日暮",
+       "rarity": "rare"
+      },
+      {
+       "id": "[729]3",
+       "name": "FN57 | 绛之绽放",
+       "rarity": "rare"
+      },
+      {
+       "id": "[728]33",
+       "name": "MP7 | 青之绽放",
+       "rarity": "rare"
+      },
+      {
+       "id": "[725]24",
+       "name": "UMP-45 | 忘忧草",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[727]8",
+       "name": "AUG | 午夜百合",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[732]4",
+       "name": "格洛克 18 型 | 合成叶",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[868]40",
+       "name": "SSG 08 | 海滨印花",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[734]34",
+       "name": "MP9 | 野百合",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[724]7",
+       "name": "AK-47 | 野荷",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Wild Lotus"
+     ]
+    }
+   }
+  },
+  "set_timed_drops_achroma": {
+   "name_en": "The Achroma Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[1365]10",
+       "name": "FAMAS | Vendetta",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1364]16",
+       "name": "M4A4 | Aeolian Dark",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1367]17",
+       "name": "MAC-10 | Snow Splash",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1366]23",
+       "name": "MP5-SD | Snow Splash",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1363]64",
+       "name": "R8 Revolver | Dark Chamber",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1362]8",
+       "name": "AUG | Creep",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1360]1",
+       "name": "Desert Eagle | The Daily Deagle",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1359]32",
+       "name": "P2000 | Grip Tape",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1361]19",
+       "name": "P90 | Aeolian Light",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1358]7",
+       "name": "AK-47 | Breakthrough",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1357]4",
+       "name": "Glock-18 | Trace Lock",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1356]9",
+       "name": "AWP | The End",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | The End"
+     ]
+    }
+   }
+  },
+  "set_timed_drops_cool": {
+   "name_en": "The Ascent Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[1263]2",
+       "name": "双持贝瑞塔 | 蔷薇珠母",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1262]3",
+       "name": "FN57 | 青空",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1264]13",
+       "name": "加利尔 AR | 鸲珠",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1265]4",
+       "name": "格洛克 18 型 | 深海地貌",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1266]16",
+       "name": "M4A4 | 海军虎纹迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1260]28",
+       "name": "内格夫 | 酸葡萄",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1261]35",
+       "name": "新星 | 松石流彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1267]25",
+       "name": "XM1014 | 口香糖迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1268]31",
+       "name": "宙斯 X27 电击枪 | 电光幽蓝",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1257]1",
+       "name": "沙漠之鹰 | 薄荷折扇",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1219]10",
+       "name": "法玛斯 | 雪怪迷彩",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1258]34",
+       "name": "MP9 | 钴蓝佩斯利",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1259]32",
+       "name": "P2000 | 皇家巴洛克",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1256]19",
+       "name": "P90 | 珊瑚挽歌",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1218]7",
+       "name": "AK-47 | 午夜层压板",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1217]61",
+       "name": "USP 消音版 | 皇家卫队",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1216]60",
+       "name": "M4A1 消音型 | 平流层巡航",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Stratosphere"
+     ]
+    }
+   }
+  },
+  "set_timed_drops_exuberant": {
+   "name_en": "The Harlequin Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[1385]23",
+       "name": "MP5-SD | Picnic",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1386]33",
+       "name": "MP7 | Coral Paisley",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1379]40",
+       "name": "SSG 08 | Calligrafaux",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1384]30",
+       "name": "Tec-9 | Banana Leaf",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1381]25",
+       "name": "XM1014 | XoooM",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1380]3",
+       "name": "Five-SeveN | Fraise Crane",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1383]13",
+       "name": "Galil AR | Sky Mandala",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1387]24",
+       "name": "UMP-45 | Warm Blooded",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1382]31",
+       "name": "Zeus x27 | Earth Mandala",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1378]9",
+       "name": "AWP | Exothermic",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1377]61",
+       "name": "USP-S | Sleeping Potion",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1376]60",
+       "name": "M4A1-S | Party Animal",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Party Animal"
+     ]
+    }
+   }
+  },
+  "set_timed_drops_neutral": {
+   "name_en": "The Boreal Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[1288]7",
+       "name": "AK-47 | 灰变迷彩",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1290]2",
+       "name": "双持贝瑞塔 | 精琢孔雀石",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1296]13",
+       "name": "加利尔 AR | 酸蚀镖",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1295]17",
+       "name": "MAC-10 | 酸蚀蜂巢",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1292]32",
+       "name": "P2000 | 草泽",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1291]19",
+       "name": "P90 | 芥子气",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1293]64",
+       "name": "R8 左轮手枪 | 叶蝉",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1289]40",
+       "name": "SSG 08 | 虎噬",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1286]30",
+       "name": "Tec-9 | 束带-9",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1283]7",
+       "name": "AK-47 | 寒翠",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1285]17",
+       "name": "MAC-10 | 白杨丛",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1294]23",
+       "name": "MP5-SD | 黄金榕",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1284]61",
+       "name": "USP 消音版 | 椰风花语",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1287]25",
+       "name": "XM1014 | 铜斑迷彩",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1282]4",
+       "name": "格洛克 18 型 | 格更鸟",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1281]16",
+       "name": "M4A4 | 轰天闪",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1280]9",
+       "name": "AWP | 一击碧命",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Green Energy"
+     ]
+    }
+   }
+  },
+  "set_timed_drops_warm": {
+   "name_en": "The Radiant Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[1321]10",
+       "name": "法玛斯 | 灰色幽灵",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1314]13",
+       "name": "加利尔 AR | 血橙游骑兵",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1313]16",
+       "name": "M4A4 | 钢铁红流",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1317]36",
+       "name": "P250 | 沉积",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1320]39",
+       "name": "SG 553 | 篮纹半调",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1322]30",
+       "name": "Tec-9 | 柠檬酸",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1324]9",
+       "name": "AWP | 砷化污染",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1312]4",
+       "name": "格洛克 18 型 | 珊红花汛",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1319]60",
+       "name": "M4A1 消音型 | 玫瑰蜂巢",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1310]34",
+       "name": "MP9 | 噬裂",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1315]36",
+       "name": "P250 | 赤色潮汐",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1316]40",
+       "name": "SSG 08 | 霞坠",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1318]1",
+       "name": "沙漠之鹰 | 玛珀丽",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1311]60",
+       "name": "M4A1 消音型 | 故障艺术",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1323]61",
+       "name": "USP 消音版 | 血刃",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1309]7",
+       "name": "AK-47 | 新红浪潮",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Nouveau Rouge"
+     ]
+    }
+   }
+  },
+  "set_train": {
+   "name_en": "The Train Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[17]16",
+       "name": "M4A4 | 都市 DDPAT",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[3]17",
+       "name": "MAC-10 | 红苹果",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[34]27",
+       "name": "MAG-7 | 金属 DDPAT",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[34]36",
+       "name": "P250 | 金属 DDPAT",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[234]19",
+       "name": "P90 | 白蜡木",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[70]38",
+       "name": "SCAR-20 | 碳素纤维",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[237]1",
+       "name": "沙漠之鹰 | 都市瓦砾",
+       "rarity": "rare"
+      },
+      {
+       "id": "[246]29",
+       "name": "截短霰弹枪 | 渐变琥珀",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[248]30",
+       "name": "Tec-9 | 晶红石英",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "Tec-9 | Red Quartz"
+     ]
+    }
+   }
+  },
+  "set_train_2021": {
+   "name_en": "The 2021 Train Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1058]9",
+       "name": "AWP | 复古流行",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1064]63",
+       "name": "CZ75 | 辛迪加",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1061]23",
+       "name": "MP5-SD | 秋季方巾",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[248]35",
+       "name": "新星 | 晶红石英",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1055]32",
+       "name": "P2000 | 太空竞赛",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1053]10",
+       "name": "法玛斯 | 熔化",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1067]17",
+       "name": "MAC-10 | 凝视之眼",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1065]61",
+       "name": "USP 消音版 | 银装素裹",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1119]4",
+       "name": "格洛克 18 型 | 伽玛多普勒",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1120]4",
+       "name": "格洛克 18 型 | 伽玛多普勒",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1121]4",
+       "name": "格洛克 18 型 | 伽玛多普勒",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1122]4",
+       "name": "格洛克 18 型 | 伽玛多普勒",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1123]4",
+       "name": "格洛克 18 型 | 伽玛多普勒",
+       "rarity": "ancient"
+      },
+      {
+       "id": "[1063]16",
+       "name": "M4A4 | 合纵",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A4 | The Coalition",
+      "Glock-18 | Gamma Doppler",
+      "Glock-18 | Gamma Doppler",
+      "Glock-18 | Gamma Doppler",
+      "Glock-18 | Gamma Doppler",
+      "Glock-18 | Gamma Doppler"
+     ]
+    }
+   }
+  },
+  "set_train_2025": {
+   "name_en": "The Train 2025 Collection",
+   "name_zh": null,
+   "tiers": {
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1202]10",
+       "name": "法玛斯 | 2A2F",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1200]4",
+       "name": "格洛克 18 型 | 格林线",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1203]24",
+       "name": "UMP-45 | 深夜通勤",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1201]25",
+       "name": "XM1014 | 跑跑跑",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1204]17",
+       "name": "MAC-10 | 脱轨",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1214]30",
+       "name": "Tec-9 | 银装素裹",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1205]31",
+       "name": "宙斯 X27 电击枪 | 充电宝",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1209]16",
+       "name": "M4A4 | 炼狱之火",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1211]34",
+       "name": "MP9 | 首冲拿铁",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1213]9",
+       "name": "AWP | 灵缇",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | LongDog"
+     ]
+    }
+   }
+  },
+  "set_vertigo": {
+   "name_en": "The Vertigo Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[70]26",
+       "name": "PP-野牛 | 碳素纤维",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[172]7",
+       "name": "AK-47 | 黑色层压板",
+       "rarity": "rare"
+      },
+      {
+       "id": "[111]19",
+       "name": "P90 | 冰川网格",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[153]2",
+       "name": "双持贝瑞塔 | 爆破能手",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "Dual Berettas | Demolition"
+     ]
+    }
+   }
+  },
+  "set_vertigo_2021": {
+   "name_en": "The 2021 Vertigo Collection",
+   "name_zh": null,
+   "tiers": {
+    "common": {
+     "pool_tier": "uncommon",
+     "pool": [
+      {
+       "id": "[1079]4",
+       "name": "格洛克 18 型 | 红色轮胎",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1083]26",
+       "name": "PP-野牛 | 开关箱",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[70]40",
+       "name": "SSG 08 | 碳素纤维",
+       "rarity": "uncommon"
+      },
+      {
+       "id": "[1085]24",
+       "name": "UMP-45 | 机械装置",
+       "rarity": "uncommon"
+      }
+     ]
+    },
+    "uncommon": {
+     "pool_tier": "rare",
+     "pool": [
+      {
+       "id": "[1070]7",
+       "name": "AK-47 | 绿色层压板",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1080]28",
+       "name": "内格夫 | 基础建设",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1077]35",
+       "name": "新星 | 致幻时刻",
+       "rarity": "rare"
+      },
+      {
+       "id": "[1074]19",
+       "name": "P90 | 解视图",
+       "rarity": "rare"
+      }
+     ]
+    },
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[1071]13",
+       "name": "加利尔 AR | 警告！",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1072]27",
+       "name": "MAG-7 | 棱彩阶梯",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[1081]36",
+       "name": "P250 | 数字架构师",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1082]3",
+       "name": "FN57 | 坠落危险",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1084]39",
+       "name": "SG 553 | 玩命职场",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1073]60",
+       "name": "M4A1 消音型 | 紧迫危机",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "M4A1-S | Imminent Danger"
+     ]
+    }
+   }
+  },
+  "set_weapons_i": {
+   "name_en": "The Arms Deal Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[48]4",
+       "name": "格洛克 18 型 | 黑龙纹身",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[60]60",
+       "name": "M4A1 消音型 | 黑水",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[60]61",
+       "name": "USP 消音版 | 黑水",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[44]7",
+       "name": "AK-47 | 表面淬火",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[61]1",
+       "name": "沙漠之鹰 | 蛊惑之色",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[51]9",
+       "name": "AWP | 雷击",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AWP | Lightning Strike"
+     ]
+    }
+   }
+  },
+  "set_weapons_ii": {
+   "name_en": "The Arms Deal 2 Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[220]2",
+       "name": "双持贝瑞塔 | 血红蛋白",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[44]3",
+       "name": "FN57 | 表面淬火",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[61]34",
+       "name": "MP9 | 蛊惑之色",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[214]35",
+       "name": "新星 | 石墨黑",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[67]19",
+       "name": "P90 | 冷血杀手",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[221]61",
+       "name": "USP 消音版 | 血清",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[222]40",
+       "name": "SSG 08 | 水中之血",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "SSG 08 | Blood in the Water"
+     ]
+    }
+   }
+  },
+  "set_weapons_iii": {
+   "name_en": "The Arms Deal 3 Collection",
+   "name_zh": null,
+   "tiers": {
+    "rare": {
+     "pool_tier": "mythical",
+     "pool": [
+      {
+       "id": "[268]63",
+       "name": "CZ75 | 花纹钢板",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[273]1",
+       "name": "沙漠之鹰 | 遗产",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[274]3",
+       "name": "FN57 | 铜色星系",
+       "rarity": "mythical"
+      },
+      {
+       "id": "[272]30",
+       "name": "Tec-9 | 钛片",
+       "rarity": "mythical"
+      }
+     ]
+    },
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[269]63",
+       "name": "CZ75 | 梅红时刻",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[271]36",
+       "name": "P250 | 暗潮",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[270]63",
+       "name": "CZ75 | 维多利亚",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "CZ75-Auto | Victoria"
+     ]
+    }
+   }
+  },
+  "set_xpshop_wpn_01": {
+   "name_en": "Limited Edition Item",
+   "name_zh": null,
+   "tiers": {
+    "mythical": {
+     "pool_tier": "legendary",
+     "pool": [
+      {
+       "id": "[1054]1",
+       "name": "沙漠之鹰 | 热处理",
+       "rarity": "legendary"
+      },
+      {
+       "id": "[1338]60",
+       "name": "M4A1-S | Solitude",
+       "rarity": "legendary"
+      }
+     ]
+    },
+    "legendary": {
+     "pool_tier": "ancient",
+     "pool": [
+      {
+       "id": "[1397]7",
+       "name": "AK-47 | Aphrodite",
+       "rarity": "ancient"
+      }
+     ]
+    },
+    "ancient": {
+     "pool_tier": null,
+     "skins": [
+      "AK-47 | Aphrodite"
+     ]
+    }
+   }
+  },
+  "set_xraymachine": {
+   "name_en": "The X-Ray Collection",
+   "name_zh": null,
+   "tiers": {
+    "mythical": {
+     "pool_tier": null,
+     "skins": [
+      "P250 | X-Ray"
+     ]
+    }
+   }
+  }
+ }
+}
