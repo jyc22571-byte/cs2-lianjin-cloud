@@ -257,6 +257,10 @@ def compute_mains():
             if not tt.get("pool"):
                 continue
             for s in [x for x in cv["skins"] if x.get("rarity") == r]:
+                # 区间太小（如仅崭新/窄区间）当不了高磨损主料 → 剔除
+                span = (s.get("wear_max") or 0) - (s.get("wear_min") or 0)
+                if span < 0.7:
+                    continue
                 iid = s["item_id"]
                 for lb, buy in S_LABELS:
                     p = price_of(mh_of(iid, buy))
@@ -273,6 +277,7 @@ def compute_mains():
                             "iid": iid,
                             "name": ITEM.get(iid, {}).get("zh") or ITEM.get(iid, {}).get("en") or "",
                             "col": nm, "rarity": r,
+                            "span": round(span, 4),
                             "main_price": round(p, 2),
                             "filter_v": round(fv, 4), "S": round(sv, 4)})
     for lb in modes:
