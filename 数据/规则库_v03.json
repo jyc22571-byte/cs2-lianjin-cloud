@@ -18449,6 +18449,16 @@
     "Field-Tested": "P250 | X-Ray (Field-Tested)",
     "Factory New": "P250 | X-Ray (Factory New)"
    }
+  },
+  "[800]23": {
+   "item_id": "[800]23",
+   "full_en": "MP5-SD | Lab Rats",
+   "zh": "MP5-SD | 小白鼠",
+   "market_by_wear": {
+    "Factory New": "MP5-SD | Lab Rats (Factory New)",
+    "Minimal Wear": "MP5-SD | Lab Rats (Minimal Wear)",
+    "Field-Tested": "MP5-SD | Lab Rats (Field-Tested)"
+   }
   }
  },
  "pools": {
