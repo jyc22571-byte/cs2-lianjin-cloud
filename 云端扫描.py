@@ -217,7 +217,7 @@ def compute_board():
                 # 主链产物 均价（卖 产物档）
                 pv = [price_of(mh_of(p["id"], wear_t)) for p in pool]
                 pv = [v for v in pv if v]
-                if not pv:
+                if len(pv) != len(pool):
                     continue
                 pA = sum(pv) / len(pv)
                 # 辅料链产物 均价
@@ -227,7 +227,9 @@ def compute_board():
                         v = price_of(mh_of(p["id"], wear_t))
                         if v:
                             fpv.append(v)
-                pF = sum(fpv) / len(fpv) if fpv else 0.0
+                if not fch or len(fpv) != len(fch[2]):
+                    continue
+                pF = sum(fpv) / len(fpv)
                 cost = (3 * mcost + 7 * f_cost) * (1 + FEE_BUY)
                 exp = 0.3 * pA + 0.7 * pF
                 ev = exp * (1 - FEE_SELL) - cost
@@ -242,7 +244,7 @@ def compute_board():
         results[m].sort(key=lambda x: -x["ev"])
     if skipped:
         print("以下稀有度因取不到同档辅料被跳过: %s" % skipped, flush=True)
-    return {"date": time.strftime("%Y-%m-%d %H:%M"), "modes": results}
+    return {"date": time.strftime("%Y-%m-%d %H:%M"), "kind": "opportunity_only", "algorithm_version": "screen-v2-complete-prices", "modes": results}
 
 # ---------- 主料 S 榜：初筛(同磨损≥0.8)后按 S 排序 ----------
 S_LABELS = [("S破损", "Well-Worn"), ("S酒精", "Field-Tested"), ("S略磨", "Minimal Wear")]
@@ -258,7 +260,7 @@ def pool_mean(iid, wear_en):
         c = price_of(mh_of(p["id"], wear_en))
         if c:
             vals.append(c)
-    if not vals:
+    if len(vals) != len(ch[2]):
         return None
     return sum(vals) / len(vals)
 
@@ -310,6 +312,9 @@ def main():
     dest = os.path.join(BASE, "净EV榜.json")
     json.dump(board, open(dest, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     for m in board["modes"]:
+        if not board["modes"][m]:
+            print(f"[{m}] 无完整估值候选", flush=True)
+            continue
         top = board["modes"][m][0]
         print(f"[{m}] 榜首 {top['main']} 净EV {top['ev']} 收益 {top['roi']}%", flush=True)
     mains = compute_mains()
