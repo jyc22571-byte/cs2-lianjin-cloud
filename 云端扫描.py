@@ -87,21 +87,19 @@ def build_need():
                     mh = mh_of(p["id"], wt)
                     if mh:
                         need[mh] = True
-    # 通用辅料（FN）及其链产物档
-    for cand in FILLER_CANDS:
-        for _, i_ in MAT_ITEMS:
-            if (ITEM[i_]["en"] or "").lower() == cand.lower():
-                mh = mh_of(i_, "Factory New")
-                if mh:
-                    need[mh] = True
-                ch = chain_of(i_)
-                if ch:
-                    for p in ch[2]:
-                        for wt in ("Factory New", "Minimal Wear", "Field-Tested"):
-                            mh = mh_of(p["id"], wt)
-                            if mh:
-                                need[mh] = True
-                break
+    # 通用辅料候选：所有可炼皮肤的 FN 档（按稀有度各自挑最便宜的当辅料）
+    # 2026-09-24：原来是固定 5 个 uncommon 皮肤，导致非 uncommon 的链全部是非法配方
+    for _, i_ in MAT_ITEMS:
+        mh = mh_of(i_, "Factory New")
+        if mh:
+            need[mh] = True
+        ch = chain_of(i_)
+        if ch:
+            for p in ch[2]:
+                for wt in ("Factory New", "Minimal Wear", "Field-Tested"):
+                    mh2 = mh_of(p["id"], wt)
+                    if mh2:
+                        need[mh2] = True
     return sorted(need)
 
 # ---------- 批量取价 ----------
@@ -167,26 +165,32 @@ MODES = [("久经→略磨", "Field-Tested", "Minimal Wear"),
          ("略磨→崭新", "Minimal Wear", "Factory New"),
          ("破损→久经", "Well-Worn", "Field-Tested")]
 
-def pick_filler():
-    """通用辅料：候选里 FN 价最低的一个可炼皮肤"""
+_FILLER_CACHE = {}   # rarity -> (iid, fn_price) 或 None
+
+def pick_filler(rarity_en):
+    """按稀有度挑通用辅料：**同稀有度**里 FN 价最低的可炼皮肤。
+    2026-09-24 修复：原实现用固定的 5 个皮肤（全是 The Arabesque 的 uncommon）给
+    所有稀有度的链当辅料。但 CS2 汰换合同要求 10 件**同稀有度**——
+    所以 rare / mythical / legendary / common 的链在游戏里根本做不出来，
+    原榜 306 行里只有 44 行合法，且三个榜首全是非法配方。
+    """
+    if rarity_en in _FILLER_CACHE:
+        return _FILLER_CACHE[rarity_en]
     best = None
-    for cand in FILLER_CANDS:
-        for _, i_ in MAT_ITEMS:
-            if (ITEM[i_]["en"] or "").lower() == cand.lower():
-                c = price_of(mh_of(i_, "Factory New"))
-                if c and (best is None or c < best[1]):
-                    best = (i_, c)
-                break
+    for iid, it in ITEM.items():
+        if it.get("rarity") != rarity_en or not it.get("bridge"):
+            continue
+        if not chain_of(iid):
+            continue
+        c = price_of(mh_of(iid, "Factory New"))
+        if c and (best is None or c < best[1]):
+            best = (iid, c)
+    _FILLER_CACHE[rarity_en] = best
     return best
 
 def compute_board():
-    f = pick_filler()
-    if f is None:
-        print("取不到通用辅料价格", file=sys.stderr)
-        return None
-    f_iid, f_cost = f
-    fch = chain_of(f_iid)
     results = {m[0]: [] for m in MODES}
+    skipped = {}
     for mode, wear_m, wear_t in MODES:
         for cid, cv in SCC["collections"].items():
             tiers = POOLS.get(cid, {}).get("tiers", {})
@@ -194,6 +198,13 @@ def compute_board():
                 pool = tt.get("pool")
                 if not pool:
                     continue
+                # 同稀有度的通用辅料；取不到说明这一档做不成炉子，整链跳过
+                f = pick_filler(r)
+                if f is None:
+                    skipped[r] = skipped.get(r, 0) + 1
+                    continue
+                f_iid, f_cost = f
+                fch = chain_of(f_iid)
                 # 3 个最便宜主料（买 主料档）
                 best = None
                 for s in [x for x in cv["skins"] if x.get("rarity") == r]:
@@ -225,9 +236,12 @@ def compute_board():
                     "main": ITEM[mid].get("zh") or ITEM[mid]["en"],
                     "iid": mid, "cost": round(cost, 2), "ev": round(ev, 2),
                     "roi": round(100 * ev / cost, 2) if cost else 0,
-                    "chain": f"{r}→{tt['pool_tier']}"})
+                    "chain": f"{r}→{tt['pool_tier']}",
+                    "fill": ITEM[f_iid].get("zh") or ITEM[f_iid]["en"]})
     for m in results:
         results[m].sort(key=lambda x: -x["ev"])
+    if skipped:
+        print("以下稀有度因取不到同档辅料被跳过: %s" % skipped, flush=True)
     return {"date": time.strftime("%Y-%m-%d %H:%M"), "modes": results}
 
 # ---------- 主料 S 榜：初筛(同磨损≥0.8)后按 S 排序 ----------
